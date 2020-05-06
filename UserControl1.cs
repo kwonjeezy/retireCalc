@@ -18,6 +18,8 @@ namespace retireCalc
         //variables
         private static double currentSaving;
         private static double monthlySaving;
+        private static double startYear;
+        private static double retireYear;
         private static double interest = 1.04;
         private static double yearDifference;
 
@@ -86,11 +88,12 @@ namespace retireCalc
             
         currentSaving = Convert.ToDouble(amountSaved.Text);
         monthlySaving = Convert.ToDouble(monthlySaved.Text);
+        
         yearDifference= Convert.ToDouble(retireAge.Text) - Convert.ToDouble(age.Text);
 
 
 
-            calculations invested = new calculations();
+        calculations invested = new calculations();
             //Will print in text box the invested amount
             initialAmount.Text = invested.Total().ToString();
             //Will print the total amount at retirement 
@@ -99,13 +102,28 @@ namespace retireCalc
             //Creaing waypoints for graph.
             graph graphRetirement = new graph();
 
-            this.chartGraphic.Series["money"].Points.AddXY(0, 0);
 
+            startYear = Convert.ToDouble(age.Text);
+            retireYear =Convert.ToDouble(retireAge.Text);
+
+            double count = invested.Total(mSave, cSave, years, interest);
+
+            //Created max/minimum values x axis.
+            chartGraphic.ChartAreas[0].AxisX.Minimum = startYear;
+            chartGraphic.ChartAreas[0].AxisX.Maximum = retireYear;
+
+            //Created max/minimum values Y axis.
+            chartGraphic.ChartAreas[0].AxisY.Minimum = currentSaving;
+            chartGraphic.ChartAreas[0].AxisY.Maximum = count;
+
+            this.chartGraphic.Series["money"].Points.AddXY(startYear, currentSaving);
             for (double i = 0; i < yearDifference; i++)
             {
                 
-                this.chartGraphic.Series["money"].Points.AddXY(i, graphRetirement.TotalChart(i, count));
+                this.chartGraphic.Series["money"].Points.AddXY((startYear + i), graphRetirement.TotalChart(i, count));
+                count = count + count;
             }
+            this.chartGraphic.Series["money"].Points.AddXY(retireYear, count);
 
         }
 
@@ -155,7 +173,6 @@ namespace retireCalc
     //class to get graphing information
     class graph : calculations
     {
-        private static double counter;
         
         public double TotalChart(double i, double counter)
         {
