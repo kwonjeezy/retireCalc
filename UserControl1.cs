@@ -16,8 +16,7 @@ namespace retireCalc
         //variables
         private static double currentSaving;
         private static double monthlySaving;
-        private static double totalRetirement;
-        private static double totalI;
+        private static double interest = 1.07;
         private static double yearDifference;
 
 
@@ -59,7 +58,7 @@ namespace retireCalc
         private void retireAge_KeyPress(object sender, KeyPressEventArgs e)
         {
             //creates text box that will not be able to put anything non integer as inputs.
-            if (char.IsDigit(e.KeyChar) == false && char.IsControl(e.KeyChar) == false
+            if (char.IsDigit(e.KeyChar) == false && char.IsControl(e.KeyChar) == false &&
                 && (e.KeyChar == '.' ? retireAge.Text.Contains(".") == true : true))
                 e.Handled = true;
         }
@@ -91,12 +90,14 @@ namespace retireCalc
 
             calculations invested = new calculations();
             initialAmount.Text = invested.Total().ToString();
+            totalAmount.Text = invested.Total(mSave, cSave, years, interest).ToString();
             
         }
 
        
     
     }
+    //class to get calculations for no compound interest, and total retirement.
     class calculations : UserControl1
     {
         UserControl1 oc = new UserControl1();
@@ -104,20 +105,30 @@ namespace retireCalc
         double current;
         double year;
 
-
+        
         public double Total()
         {
             monthly = this.mSave;
             current = this.cSave;
             year = this.years;
-            double t = ((this.mSave*this.years)+  this.cSave);
+            double t = (((this.mSave*12)*this.years)+  this.cSave);
             return t;
         }
-        
-      
+        public double Total(double mSave,double cSave,double years,double var)
+        {
+            double counter = 0;
+            for(int i = 0; i<years;i++)
+            {
+                counter = counter + (((mSave * 12) + cSave) * var);
+            }
+            return counter;
+        }
 
-        
-       
+
+
+
+
+
 
     }
 }

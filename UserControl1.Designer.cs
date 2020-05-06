@@ -160,7 +160,7 @@
             this.TotalRetire.Name = "TotalRetire";
             this.TotalRetire.Size = new System.Drawing.Size(149, 17);
             this.TotalRetire.TabIndex = 12;
-            this.TotalRetire.Text = "Amount at Retirement;";
+            this.TotalRetire.Text = "Amount at Retirement:";
             // 
             // UserControl1
             // 
