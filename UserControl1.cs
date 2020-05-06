@@ -12,6 +12,7 @@ namespace retireCalc
 {
     public partial class UserControl1: UserControl
     {
+        //variables
 
         private int currentAge;
         private int retirementAge;
@@ -34,6 +35,19 @@ namespace retireCalc
             }
 
         }
+        //encapsulation to find the total amount of money put into the retirement system without interest.
+        public double saved
+        {
+            get
+            {
+                return totalI;
+            }
+            set
+            {
+                totalI = ((monthlySaving * 12) + currentSaving) * years;
+            }
+        }
+        
         public UserControl1()
         {
             InitializeComponent();
@@ -70,5 +84,9 @@ namespace retireCalc
                 && (e.KeyChar == '.' ? monthlySaved.Text.Contains(".") == true : true))
                 e.Handled = true;
         }
+    }
+    public class calculations : UserControl1
+    {
+
     }
 }
