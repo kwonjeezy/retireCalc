@@ -106,7 +106,7 @@ namespace retireCalc
             startYear = Convert.ToDouble(age.Text);
             retireYear =Convert.ToDouble(retireAge.Text);
 
-            double count = invested.Total(mSave, cSave, years, interest);
+            
 
             //Created max/minimum values x axis.
             chartGraphic.ChartAreas[0].AxisX.Minimum = startYear;
@@ -114,15 +114,17 @@ namespace retireCalc
 
             //Created max/minimum values Y axis.
             chartGraphic.ChartAreas[0].AxisY.Minimum = currentSaving;
-            chartGraphic.ChartAreas[0].AxisY.Maximum = count;
+            
 
             this.chartGraphic.Series["money"].Points.AddXY(startYear, currentSaving);
+            double count = invested.Total(mSave, cSave, years, interest);
+             double tInterval=0;
             for (double i = 0; i < yearDifference; i++)
-            {
-                
-                this.chartGraphic.Series["money"].Points.AddXY((startYear + i), graphRetirement.TotalChart(i, count));
-                count = count + count;
+            { 
+                this.chartGraphic.Series["money"].Points.AddXY((startYear + i), graphRetirement.TotalChart(count, tInterval));
+                tInterval = graphRetirement.TotalChart(count, tInterval);
             }
+            chartGraphic.ChartAreas[0].AxisY.Maximum = count;
             this.chartGraphic.Series["money"].Points.AddXY(retireYear, count);
 
         }
@@ -164,21 +166,25 @@ namespace retireCalc
             for(int i = 0; i<years;i++)
             {
                 counter = counter + ((mSave + cSave) * variable);
+                
             }
             return counter;
         }
        
     }
 
-    //class to get graphing information
+    //class to get graphing information for Y axis
     class graph : calculations
     {
-        
-        public double TotalChart(double i, double counter)
+     
+        public double TotalChart(double count, double yInt)
         {
-            mSave = mSave * 12;
-            counter = counter + ((monthly + cSave) * var);
-            return counter;
+            if (  yInt <= count)
+            {
+                yInt += 100;
+               
+            }
+            return yInt;
 
         }
 
