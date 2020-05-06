@@ -12,9 +12,27 @@ namespace retireCalc
 {
     public partial class UserControl1: UserControl
     {
-        public class calculate: UserControl1
+
+        private int currentAge;
+        private int retirementAge;
+        private double currentSaving;
+        private double monthlySaving;
+        private double totalRetirement;
+        private double totalI;
+        private int yearDifference;
+
+        public int years
         {
-            
+            //gets and sets years as the difference between the retirement age and the current age. via encapsulation.
+            get
+            {
+                return yearDifference;
+            }
+            set
+            {
+                yearDifference = retirementAge - currentAge;
+            }
+
         }
         public UserControl1()
         {
@@ -23,6 +41,7 @@ namespace retireCalc
 
         private void age_KeyPress(object sender, KeyPressEventArgs e)
         {
+            //creates text box that will not be able to put anything non integer as inputs.
             if (char.IsDigit(e.KeyChar) == false && char.IsControl(e.KeyChar) == false
                 && (e.KeyChar == '.' ? age.Text.Contains(".") == true : true))
                 e.Handled = true;
@@ -30,6 +49,7 @@ namespace retireCalc
 
         private void retireAge_KeyPress(object sender, KeyPressEventArgs e)
         {
+            //creates text box that will not be able to put anything non integer as inputs.
             if (char.IsDigit(e.KeyChar) == false && char.IsControl(e.KeyChar) == false
                 && (e.KeyChar == '.' ? retireAge.Text.Contains(".") == true : true))
                 e.Handled = true;
@@ -37,6 +57,7 @@ namespace retireCalc
 
         private void amountSaved_KeyPress(object sender, KeyPressEventArgs e)
         {
+            //creates text box that will not be able to put anything non integer as inputs.
             if (char.IsDigit(e.KeyChar) == false && char.IsControl(e.KeyChar) == false
                 && (e.KeyChar == '.' ? amountSaved.Text.Contains(".") == true : true))
                 e.Handled = true;
@@ -44,6 +65,7 @@ namespace retireCalc
 
         private void monthlySaved_KeyPress(object sender, KeyPressEventArgs e)
         {
+            //creates text box that will not be able to put anything non integer as inputs.
             if (char.IsDigit(e.KeyChar) == false && char.IsControl(e.KeyChar) == false
                 && (e.KeyChar == '.' ? monthlySaved.Text.Contains(".") == true : true))
                 e.Handled = true;
