@@ -117,12 +117,14 @@
             // 
             // calculate
             // 
+            this.calculate.Font = new System.Drawing.Font("Arial Narrow", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.calculate.Location = new System.Drawing.Point(1035, 166);
             this.calculate.Name = "calculate";
             this.calculate.Size = new System.Drawing.Size(75, 23);
             this.calculate.TabIndex = 8;
             this.calculate.Text = "calculate";
             this.calculate.UseVisualStyleBackColor = true;
+            this.calculate.Click += new System.EventHandler(this.calculate_Click);
             // 
             // initialAmount
             // 
@@ -190,7 +192,6 @@
         private System.Windows.Forms.Label ageLabel;
         private System.Windows.Forms.TextBox retireAge;
         private System.Windows.Forms.Label retireAgeLabel;
-        private System.Windows.Forms.TextBox amountSaved;
         private System.Windows.Forms.Label CurrentSaving;
         private System.Windows.Forms.TextBox monthlySaved;
         private System.Windows.Forms.Label label1;
@@ -199,5 +200,6 @@
         private System.Windows.Forms.Label AmountInvested;
         private System.Windows.Forms.TextBox totalAmount;
         private System.Windows.Forms.Label TotalRetire;
+        private System.Windows.Forms.TextBox amountSaved;
     }
 }

@@ -12,42 +12,37 @@ namespace retireCalc
 {
     public partial class UserControl1: UserControl
     {
+        
         //variables
+        private static double currentSaving;
+        private static double monthlySaving;
+        private static double totalRetirement;
+        private static double totalI;
+        private static double yearDifference;
 
-        private int currentAge;
-        private int retirementAge;
-        private double currentSaving;
-        private double monthlySaving;
-        private double totalRetirement;
-        private double totalI;
-        private int yearDifference;
 
-        public int years
+        public double years
         {
             //gets and sets years as the difference between the retirement age and the current age. via encapsulation.
-            get
-            {
-                return yearDifference;
-            }
-            set
-            {
-                yearDifference = retirementAge - currentAge;
-            }
+            get { return yearDifference; }
+            set { yearDifference = value; }
 
         }
-        //encapsulation to find the total amount of money put into the retirement system without interest.
-        public double saved
+
+        //encapsulation to find the total monthly saving rate
+        public double mSave
         {
-            get
-            {
-                return totalI;
-            }
-            set
-            {
-                totalI = ((monthlySaving * 12) + currentSaving) * years;
-            }
+            get { return monthlySaving; }
+            set { monthlySaving = value; }
         }
-        
+        //encapsulation to find the the current amount saved.
+        public double cSave
+        {
+            get { return currentSaving; }
+            set { currentSaving = value; }
+
+        }
+
         public UserControl1()
         {
             InitializeComponent();
@@ -84,9 +79,45 @@ namespace retireCalc
                 && (e.KeyChar == '.' ? monthlySaved.Text.Contains(".") == true : true))
                 e.Handled = true;
         }
+
+        private void calculate_Click(object sender, EventArgs e)
+        {
+            
+         currentSaving = Convert.ToDouble(amountSaved.Text);
+        monthlySaving = Convert.ToDouble(monthlySaved.Text);
+        yearDifference= Convert.ToDouble(retireAge.Text) - Convert.ToDouble(age.Text);
+
+
+
+            calculations invested = new calculations();
+            initialAmount.Text = invested.Total().ToString();
+            
+        }
+
+       
+    
     }
-    public class calculations : UserControl1
+    class calculations : UserControl1
     {
+        UserControl1 oc = new UserControl1();
+        double monthly;
+        double current;
+        double year;
+
+
+        public double Total()
+        {
+            monthly = this.mSave;
+            current = this.cSave;
+            year = this.years;
+            double t = ((this.mSave*this.years)+  this.cSave);
+            return t;
+        }
+        
+      
+
+        
+       
 
     }
 }
