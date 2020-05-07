@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 using System.Runtime.CompilerServices;
+using System.Data.SqlClient;
 
 namespace retireCalc
 {
@@ -238,4 +239,6 @@ namespace retireCalc
         }
 
     }
+
 }
+
