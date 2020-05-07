@@ -24,6 +24,7 @@ namespace retireCalc
         private static double retireYear;
         private static double interest = 1.04;
         private static double yearDifference;
+        private static double salaryIn;
 
 
         public double years
@@ -46,6 +47,12 @@ namespace retireCalc
             get { return currentSaving; }
             set { currentSaving = value; }
 
+        }
+
+        public double sal
+        {
+            get { return salaryIn;}
+            set { salaryIn = value; }
         }
 
         public UserControl1()
@@ -90,7 +97,7 @@ namespace retireCalc
             
         currentSaving = Convert.ToDouble(amountSaved.Text);
         monthlySaving = Convert.ToDouble(monthlySaved.Text);
-        
+        salaryIn = Convert.ToDouble(salary.Text);
         yearDifference= Convert.ToDouble(retireAge.Text) - Convert.ToDouble(age.Text);
 
 
@@ -135,15 +142,16 @@ namespace retireCalc
             }
             chartGraphic.ChartAreas[0].AxisY.Maximum = count;
 
-            //creates dataset for display;
-            DataSet dataSet = new DataSet();
-            dataSet.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobOutlook2.xml");
-            careerOptions.DataSource = dataSet.Tables[0];
 
-            DataSet dataSet2 = new DataSet();
-            dataSet2.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\rent2.xml");
-            livingOption.DataSource = dataSet2.Tables[0];
 
+        }
+
+        private void salary_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            //creates text box that will not be able to put anything non integer as inputs.
+            if (char.IsDigit(e.KeyChar) == false && char.IsControl(e.KeyChar) == false
+                && (e.KeyChar == '.' ? salary.Text.Contains(".") == true : true))
+                e.Handled = true;
         }
         private void Reset_Click(object sender, EventArgs e)
         {
@@ -152,6 +160,18 @@ namespace retireCalc
             //resets graph series
             this.chartGraphic.Series["Retirement"].Points.Clear();
             this.chartGraphic.Series["Investment"].Points.Clear();
+        }
+
+        private void salaryCalculate_Click(object sender, EventArgs e)
+        {
+            //creates dataset for display;
+            DataSet dataSet = new DataSet();
+            dataSet.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobOutlook2.xml");
+            careerOptions.DataSource = dataSet.Tables[0];
+
+            DataSet dataSet2 = new DataSet();
+            dataSet2.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\rent2.xml");
+            livingOption.DataSource = dataSet2.Tables[0];
         }
     }
     //class to get calculations for no compound interest, and total retirement. via inheritence.

@@ -49,6 +49,11 @@
             this.Reset = new System.Windows.Forms.Button();
             this.livingOption = new System.Windows.Forms.DataGridView();
             this.careerOptions = new System.Windows.Forms.DataGridView();
+            this.salary = new System.Windows.Forms.TextBox();
+            this.salaryCalculate = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.salaryPercentage = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.chartGraphic)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.livingOption)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.careerOptions)).BeginInit();
@@ -129,9 +134,9 @@
             // calculate
             // 
             this.calculate.Font = new System.Drawing.Font("Arial Narrow", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.calculate.Location = new System.Drawing.Point(1060, 163);
+            this.calculate.Location = new System.Drawing.Point(1051, 163);
             this.calculate.Name = "calculate";
-            this.calculate.Size = new System.Drawing.Size(75, 23);
+            this.calculate.Size = new System.Drawing.Size(84, 36);
             this.calculate.TabIndex = 8;
             this.calculate.Text = "calculate";
             this.calculate.UseVisualStyleBackColor = true;
@@ -201,9 +206,9 @@
             // Reset
             // 
             this.Reset.Font = new System.Drawing.Font("Arial Narrow", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Reset.Location = new System.Drawing.Point(1060, 279);
+            this.Reset.Location = new System.Drawing.Point(1060, 446);
             this.Reset.Name = "Reset";
-            this.Reset.Size = new System.Drawing.Size(75, 23);
+            this.Reset.Size = new System.Drawing.Size(75, 37);
             this.Reset.TabIndex = 14;
             this.Reset.Text = "Reset";
             this.Reset.UseVisualStyleBackColor = true;
@@ -229,10 +234,62 @@
             this.careerOptions.Size = new System.Drawing.Size(397, 162);
             this.careerOptions.TabIndex = 15;
             // 
+            // salary
+            // 
+            this.salary.Location = new System.Drawing.Point(1035, 305);
+            this.salary.Name = "salary";
+            this.salary.Size = new System.Drawing.Size(100, 22);
+            this.salary.TabIndex = 17;
+            this.salary.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.salary_KeyPress);
+            // 
+            // salaryCalculate
+            // 
+            this.salaryCalculate.Font = new System.Drawing.Font("Arial Narrow", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.salaryCalculate.Location = new System.Drawing.Point(1005, 348);
+            this.salaryCalculate.Name = "salaryCalculate";
+            this.salaryCalculate.Size = new System.Drawing.Size(130, 40);
+            this.salaryCalculate.TabIndex = 18;
+            this.salaryCalculate.Text = "Calculate Living";
+            this.salaryCalculate.UseVisualStyleBackColor = true;
+            this.salaryCalculate.Click += new System.EventHandler(this.salaryCalculate_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label2.Location = new System.Drawing.Point(877, 308);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(153, 17);
+            this.label2.TabIndex = 19;
+            this.label2.Text = "Desired Salary(yearly):";
+            // 
+            // salaryPercentage
+            // 
+            this.salaryPercentage.Location = new System.Drawing.Point(1035, 409);
+            this.salaryPercentage.Name = "salaryPercentage";
+            this.salaryPercentage.ReadOnly = true;
+            this.salaryPercentage.Size = new System.Drawing.Size(100, 22);
+            this.salaryPercentage.TabIndex = 20;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label3.Location = new System.Drawing.Point(890, 409);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(129, 17);
+            this.label3.TabIndex = 21;
+            this.label3.Text = "Salary Percentage:";
+            // 
             // UserControl1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.salaryPercentage);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.salaryCalculate);
+            this.Controls.Add(this.salary);
             this.Controls.Add(this.livingOption);
             this.Controls.Add(this.careerOptions);
             this.Controls.Add(this.Reset);
@@ -251,7 +308,7 @@
             this.Controls.Add(this.ageLabel);
             this.Controls.Add(this.age);
             this.Name = "UserControl1";
-            this.Size = new System.Drawing.Size(1165, 486);
+            this.Size = new System.Drawing.Size(1175, 507);
             ((System.ComponentModel.ISupportInitialize)(this.chartGraphic)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.livingOption)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.careerOptions)).EndInit();
@@ -279,5 +336,10 @@
         private System.Windows.Forms.Button Reset;
         private System.Windows.Forms.DataGridView livingOption;
         private System.Windows.Forms.DataGridView careerOptions;
+        private System.Windows.Forms.TextBox salary;
+        private System.Windows.Forms.Button salaryCalculate;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox salaryPercentage;
+        private System.Windows.Forms.Label label3;
     }
 }
