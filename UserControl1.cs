@@ -115,22 +115,34 @@ namespace retireCalc
             //Created max/minimum values Y axis.
             chartGraphic.ChartAreas[0].AxisY.Minimum = currentSaving;
             
-
-            this.chartGraphic.Series["money"].Points.AddXY(startYear, currentSaving);
+            //creates the starting point for the 
+            this.chartGraphic.Series["Retirement"].Points.AddXY(startYear, currentSaving);
             double count = invested.Total(mSave, cSave, years, interest);
-             double tInterval=0;
+            double countInvest = invested.Total();
+            double rInterval=0;
+            double tInterval = 0;
+
+            //Will create the x,and y values
             for (double i = 0; i < yearDifference; i++)
             { 
-                this.chartGraphic.Series["money"].Points.AddXY((startYear + i), graphRetirement.TotalChart(count, tInterval));
-                tInterval = graphRetirement.TotalChart(count, tInterval);
+                this.chartGraphic.Series["Retirement"].Points.AddXY((startYear + i), graphRetirement.TotalChart(count, rInterval,(yearDifference -i)));
+                rInterval = graphRetirement.TotalChart(count, rInterval, (yearDifference - i));
+
+                this.chartGraphic.Series["Investment"].Points.AddXY((startYear + i), graphRetirement.TotalChart(countInvest, tInterval, (yearDifference - i)));
+                tInterval = graphRetirement.TotalChart(countInvest, tInterval, (yearDifference - i));
             }
             chartGraphic.ChartAreas[0].AxisY.Maximum = count;
-            this.chartGraphic.Series["money"].Points.AddXY(retireYear, count);
+            
 
         }
-
-       
-    
+        private void Reset_Click(object sender, EventArgs e)
+        {
+            //resets values.
+            Utilities.ResetAllControls(this);
+            //resets graph series
+            this.chartGraphic.Series["Retirement"].Points.Clear();
+            this.chartGraphic.Series["Investment"].Points.Clear();
+        }
     }
     //class to get calculations for no compound interest, and total retirement. via inheritence.
     class calculations : UserControl1
@@ -170,22 +182,59 @@ namespace retireCalc
             }
             return counter;
         }
+        
+
        
     }
 
     //class to get graphing information for Y axis
     class graph : calculations
     {
-     
-        public double TotalChart(double count, double yInt)
+     //creates a method to plot the yAxis for the total Investment.
+        public double TotalChart(double count, double yInt, double i)
         {
             if (  yInt <= count)
             {
-                yInt += 100;
+                yInt =count /(i);
                
             }
             return yInt;
 
+        }
+
+    }
+    //Created class to reset all values for next attempt.
+    public class Utilities
+    {
+        public static void ResetAllControls(Control form)
+        {
+            foreach (Control control in form.Controls)
+            {
+                if (control is TextBox)
+                {
+                    TextBox textBox = (TextBox)control;
+                    textBox.Text = null;
+                }
+
+                if (control is ComboBox)
+                {
+                    ComboBox comboBox = (ComboBox)control;
+                    if (comboBox.Items.Count > 0)
+                        comboBox.SelectedIndex = 0;
+                }
+
+                if (control is CheckBox)
+                {
+                    CheckBox checkBox = (CheckBox)control;
+                    checkBox.Checked = false;
+                }
+
+                if (control is ListBox)
+                {
+                    ListBox listBox = (ListBox)control;
+                    listBox.ClearSelected();
+                }
+            }
         }
 
     }

@@ -28,9 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.age = new System.Windows.Forms.TextBox();
             this.ageLabel = new System.Windows.Forms.Label();
             this.retireAge = new System.Windows.Forms.TextBox();
@@ -45,6 +46,7 @@
             this.totalAmount = new System.Windows.Forms.TextBox();
             this.TotalRetire = new System.Windows.Forms.Label();
             this.chartGraphic = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.Reset = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.chartGraphic)).BeginInit();
             this.SuspendLayout();
             // 
@@ -123,7 +125,7 @@
             // calculate
             // 
             this.calculate.Font = new System.Drawing.Font("Arial Narrow", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.calculate.Location = new System.Drawing.Point(1035, 166);
+            this.calculate.Location = new System.Drawing.Point(1060, 163);
             this.calculate.Name = "calculate";
             this.calculate.Size = new System.Drawing.Size(75, 23);
             this.calculate.TabIndex = 8;
@@ -169,26 +171,45 @@
             // 
             // chartGraphic
             // 
-            chartArea1.Name = "ChartArea1";
-            this.chartGraphic.ChartAreas.Add(chartArea1);
-            legend1.Name = "legend1";
-            legend1.Title = "legend";
-            this.chartGraphic.Legends.Add(legend1);
+            chartArea3.Name = "ChartArea1";
+            this.chartGraphic.ChartAreas.Add(chartArea3);
+            legend3.Name = "legend1";
+            legend3.Title = "legend";
+            this.chartGraphic.Legends.Add(legend3);
             this.chartGraphic.Location = new System.Drawing.Point(4, 4);
             this.chartGraphic.Margin = new System.Windows.Forms.Padding(4);
             this.chartGraphic.Name = "chartGraphic";
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series1.Legend = "legend1";
-            series1.Name = "money";
-            this.chartGraphic.Series.Add(series1);
+            series5.ChartArea = "ChartArea1";
+            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series5.Legend = "legend1";
+            series5.LegendText = "Retirement over Time";
+            series5.Name = "Retirement";
+            series6.ChartArea = "ChartArea1";
+            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series6.Legend = "legend1";
+            series6.LegendText = "Investment over Time";
+            series6.Name = "Investment";
+            this.chartGraphic.Series.Add(series5);
+            this.chartGraphic.Series.Add(series6);
             this.chartGraphic.Size = new System.Drawing.Size(867, 298);
             this.chartGraphic.TabIndex = 13;
+            // 
+            // Reset
+            // 
+            this.Reset.Font = new System.Drawing.Font("Arial Narrow", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Reset.Location = new System.Drawing.Point(1060, 279);
+            this.Reset.Name = "Reset";
+            this.Reset.Size = new System.Drawing.Size(75, 23);
+            this.Reset.TabIndex = 14;
+            this.Reset.Text = "Reset";
+            this.Reset.UseVisualStyleBackColor = true;
+            this.Reset.Click += new System.EventHandler(this.Reset_Click);
             // 
             // UserControl1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.Reset);
             this.Controls.Add(this.chartGraphic);
             this.Controls.Add(this.TotalRetire);
             this.Controls.Add(this.totalAmount);
@@ -227,5 +248,6 @@
         private System.Windows.Forms.Label TotalRetire;
         private System.Windows.Forms.TextBox amountSaved;
         private System.Windows.Forms.DataVisualization.Charting.Chart chartGraphic;
+        private System.Windows.Forms.Button Reset;
     }
 }
