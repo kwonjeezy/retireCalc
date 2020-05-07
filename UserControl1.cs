@@ -11,6 +11,10 @@ using System.Windows.Forms.DataVisualization.Charting;
 using System.Runtime.CompilerServices;
 using System.Data.SqlClient;
 using System.Xml;
+using System.Security.Cryptography.X509Certificates;
+using System.ComponentModel.Design.Serialization;
+using System.Xml.Serialization;
+using System.Xml.Linq;
 
 namespace retireCalc
 {
@@ -97,7 +101,7 @@ namespace retireCalc
             
         currentSaving = Convert.ToDouble(amountSaved.Text);
         monthlySaving = Convert.ToDouble(monthlySaved.Text);
-        salaryIn = Convert.ToDouble(salary.Text);
+
         yearDifference= Convert.ToDouble(retireAge.Text) - Convert.ToDouble(age.Text);
 
 
@@ -161,13 +165,25 @@ namespace retireCalc
             this.chartGraphic.Series["Retirement"].Points.Clear();
             this.chartGraphic.Series["Investment"].Points.Clear();
         }
-
+        
         private void salaryCalculate_Click(object sender, EventArgs e)
         {
-            //creates dataset for display;
-            DataSet dataSet = new DataSet();
-            dataSet.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobOutlook2.xml");
-            careerOptions.DataSource = dataSet.Tables[0];
+            salaryIn = Convert.ToDouble(salary.Text);
+
+
+
+            //adds the dataSet to the table for viewing
+
+
+            XmlDocument careerDoc = new XmlDocument();
+            careerDoc.Load(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobOutlook2.xml");
+            DataSet dataSet1 = new DataSet();
+            XmlReader xmlReader = new XmlNodeReader(findCareer.career(careerDoc, salaryIn));
+            dataSet1.ReadXml(xmlReader);
+            careerOptions.DataSource = dataSet1.Tables[0];
+
+
+
 
             DataSet dataSet2 = new DataSet();
             dataSet2.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\rent2.xml");
@@ -265,6 +281,57 @@ namespace retireCalc
                     listBox.ClearSelected();
                 }
             }
+        }
+
+    }
+
+    //creates class to find and input possible career options for user, based off of desired salary.
+    public class findCareer: UserControl1
+    {
+        public static double salary;
+        
+        public static XmlDocument career(XmlDocument careerReader, double salary)
+        {
+            string careerSalary, careerC;
+            double cSalary;
+            XmlDocument inputCareer = new XmlDocument();
+            inputCareer.Load(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobInput1.xml");
+
+            //checks to see if the salary wanted will satisfy any jobs.
+            //will remove careers that are too low in pay.
+            XmlNodeList xnList = careerReader.SelectNodes("/record/MedianWage");
+
+            bool isIntString;
+            XmlNode root = inputCareer.DocumentElement;
+
+            foreach (XmlNode node in  careerReader.DocumentElement)
+            {
+                careerC = node["Occupations"].InnerText;
+                careerSalary = node["MedianWage"].InnerText;
+                isIntString = careerSalary.All(char.IsDigit);
+                //creates new nodes if it hits the career criteria
+
+
+                if (isIntString==true)
+                {
+                    cSalary = Convert.ToDouble(careerSalary);
+                    if (cSalary > salary)
+                    { 
+                        XmlElement elem1 = inputCareer.CreateElement("Occupations");
+                        elem1.InnerText = node["Occupations"].InnerText;
+
+                        XmlElement elem = inputCareer.CreateElement("MedianWage");
+                        elem.InnerText = node["MedianWage"].InnerText;
+
+  
+                        inputCareer.DocumentElement.AppendChild(elem1);
+                        inputCareer.DocumentElement.AppendChild(elem);
+
+                    }
+
+                }
+            }
+            return inputCareer;
         }
 
     }
