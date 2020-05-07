@@ -1,0 +1,4310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Occupations>Chief executives</Occupations>
+		<MedianWage>184460</MedianWage>
+	</record>
+	<record>
+		<Occupations>General and operations managers</Occupations>
+		<MedianWage>100780</MedianWage>
+	</record>
+	<record>
+		<Occupations>Legislators</Occupations>
+		<MedianWage>29270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Advertising, marketing, promotions, public relations, and sales managers</Occupations>
+		<MedianWage>128870</MedianWage>
+	</record>
+	<record>
+		<Occupations>Advertising and promotions managers</Occupations>
+		<MedianWage>125510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Marketing and sales managers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Marketing managers</Occupations>
+		<MedianWage>136850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales managers</Occupations>
+		<MedianWage>126640</MedianWage>
+	</record>
+	<record>
+		<Occupations>Public relations and fundraising managers</Occupations>
+		<MedianWage>116180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Operations specialties managers</Occupations>
+		<MedianWage>120960</MedianWage>
+	</record>
+	<record>
+		<Occupations>Administrative services managers</Occupations>
+		<MedianWage>96940</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer and information systems managers</Occupations>
+		<MedianWage>146360</MedianWage>
+	</record>
+	<record>
+		<Occupations>Financial managers</Occupations>
+		<MedianWage>129890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Industrial production managers</Occupations>
+		<MedianWage>105480</MedianWage>
+	</record>
+	<record>
+		<Occupations>Purchasing managers</Occupations>
+		<MedianWage>121110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Transportation, storage, and distribution managers</Occupations>
+		<MedianWage>94560</MedianWage>
+	</record>
+	<record>
+		<Occupations>Compensation and benefits managers</Occupations>
+		<MedianWage>122270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Human resources managers</Occupations>
+		<MedianWage>116720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Training and development managers</Occupations>
+		<MedianWage>113350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other management occupations</Occupations>
+		<MedianWage>91300</MedianWage>
+	</record>
+	<record>
+		<Occupations>Farmers, ranchers, and other agricultural managers</Occupations>
+		<MedianWage>71160</MedianWage>
+	</record>
+	<record>
+		<Occupations>Construction managers</Occupations>
+		<MedianWage>95260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education administrators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education administrators, preschool and childcare center/program</Occupations>
+		<MedianWage>48210</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education administrators, elementary and secondary school</Occupations>
+		<MedianWage>96400</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education administrators, postsecondary</Occupations>
+		<MedianWage>95410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education administrators, all other</Occupations>
+		<MedianWage>85450</MedianWage>
+	</record>
+	<record>
+		<Occupations>Architectural and engineering managers</Occupations>
+		<MedianWage>144830</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food service managers</Occupations>
+		<MedianWage>55320</MedianWage>
+	</record>
+	<record>
+		<Occupations>Funeral service managers</Occupations>
+		<MedianWage>76350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gaming managers</Occupations>
+		<MedianWage>74970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Lodging managers</Occupations>
+		<MedianWage>54430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical and health services managers</Occupations>
+		<MedianWage>100980</MedianWage>
+	</record>
+	<record>
+		<Occupations>Natural sciences managers</Occupations>
+		<MedianWage>129100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Postmasters and mail superintendents</Occupations>
+		<MedianWage>76900</MedianWage>
+	</record>
+	<record>
+		<Occupations>Property, real estate, and community association managers</Occupations>
+		<MedianWage>58760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social and community service managers</Occupations>
+		<MedianWage>67150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Emergency management directors</Occupations>
+		<MedianWage>74590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Managers, all other</Occupations>
+		<MedianWage>110630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Business and financial operations occupations</Occupations>
+		<MedianWage>69820</MedianWage>
+	</record>
+	<record>
+		<Occupations>Business operations specialists</Occupations>
+		<MedianWage>68730</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agents and business managers of artists, performers, and athletes</Occupations>
+		<MedianWage>73740</MedianWage>
+	</record>
+	<record>
+		<Occupations>Buyers and purchasing agents</Occupations>
+		<MedianWage>64380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Claims adjusters, appraisers, examiners, and investigators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Claims adjusters, examiners, and investigators</Occupations>
+		<MedianWage>66790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Insurance appraisers, auto damage</Occupations>
+		<MedianWage>63270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Compliance officers</Occupations>
+		<MedianWage>69050</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cost estimators</Occupations>
+		<MedianWage>65250</MedianWage>
+	</record>
+	<record>
+		<Occupations>Human resources workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Human resources specialists</Occupations>
+		<MedianWage>61920</MedianWage>
+	</record>
+	<record>
+		<Occupations>Farm labor contractors</Occupations>
+		<MedianWage>61910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Labor relations specialists</Occupations>
+		<MedianWage>69020</MedianWage>
+	</record>
+	<record>
+		<Occupations>Logisticians</Occupations>
+		<MedianWage>74750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Management analysts</Occupations>
+		<MedianWage>85260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Meeting, convention, and event planners</Occupations>
+		<MedianWage>50600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fundraisers</Occupations>
+		<MedianWage>57970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Compensation, benefits, and job analysis specialists</Occupations>
+		<MedianWage>64560</MedianWage>
+	</record>
+	<record>
+		<Occupations>Training and development specialists</Occupations>
+		<MedianWage>61210</MedianWage>
+	</record>
+	<record>
+		<Occupations>Market research analysts and marketing specialists</Occupations>
+		<MedianWage>63790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Business operations specialists, all other</Occupations>
+		<MedianWage>73570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Financial specialists</Occupations>
+		<MedianWage>71950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Accountants and auditors</Occupations>
+		<MedianWage>71550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Appraisers and assessors of real estate</Occupations>
+		<MedianWage>57010</MedianWage>
+	</record>
+	<record>
+		<Occupations>Budget analysts</Occupations>
+		<MedianWage>76540</MedianWage>
+	</record>
+	<record>
+		<Occupations>Credit analysts</Occupations>
+		<MedianWage>73650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Financial analysts and advisors</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Financial analysts</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Personal financial advisors</Occupations>
+		<MedianWage>87850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Insurance underwriters</Occupations>
+		<MedianWage>70020</MedianWage>
+	</record>
+	<record>
+		<Occupations>Financial examiners</Occupations>
+		<MedianWage>81090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Credit counselors and loan officers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Credit counselors</Occupations>
+		<MedianWage>45950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Loan officers</Occupations>
+		<MedianWage>63270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tax examiners, collectors and preparers, and revenue agents</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tax examiners and collectors, and revenue agents</Occupations>
+		<MedianWage>54890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tax preparers</Occupations>
+		<MedianWage>43080</MedianWage>
+	</record>
+	<record>
+		<Occupations>Financial specialists, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer and mathematical occupations</Occupations>
+		<MedianWage>$88,340(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer occupations</Occupations>
+		<MedianWage>$88,240(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer and information research scientists</Occupations>
+		<MedianWage>122840</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer and information analysts</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer systems analysts</Occupations>
+		<MedianWage>90920</MedianWage>
+	</record>
+	<record>
+		<Occupations>Information security analysts</Occupations>
+		<MedianWage>99730</MedianWage>
+	</record>
+	<record>
+		<Occupations>Software developers and programmers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer programmers</Occupations>
+		<MedianWage>86550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Software developers, applications</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Software developers, systems software</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Web developers</Occupations>
+		<MedianWage>73760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Database and systems administrators and network architects</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Database administrators</Occupations>
+		<MedianWage>93750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Network and computer systems administrators</Occupations>
+		<MedianWage>83510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer network architects</Occupations>
+		<MedianWage>112690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer support specialists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer user support specialists</Occupations>
+		<MedianWage>52270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer network support specialists</Occupations>
+		<MedianWage>63460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer occupations, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mathematical science occupations</Occupations>
+		<MedianWage>90410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Actuaries</Occupations>
+		<MedianWage>108350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mathematicians</Occupations>
+		<MedianWage>105030</MedianWage>
+	</record>
+	<record>
+		<Occupations>Operations research analysts</Occupations>
+		<MedianWage>84810</MedianWage>
+	</record>
+	<record>
+		<Occupations>Statisticians</Occupations>
+		<MedianWage>91160</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous mathematical science occupations</Occupations>
+		<MedianWage>94280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Architecture and engineering occupations</Occupations>
+		<MedianWage>81440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Architects, surveyors, and cartographers</Occupations>
+		<MedianWage>74520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Architects, except naval</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Architects, except landscape and naval</Occupations>
+		<MedianWage>80750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Landscape architects</Occupations>
+		<MedianWage>69360</MedianWage>
+	</record>
+	<record>
+		<Occupations>Surveyors, cartographers, and photogrammetrists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cartographers and photogrammetrists</Occupations>
+		<MedianWage>65470</MedianWage>
+	</record>
+	<record>
+		<Occupations>Surveyors</Occupations>
+		<MedianWage>63420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Engineers</Occupations>
+		<MedianWage>94500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Aerospace engineers</Occupations>
+		<MedianWage>116500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agricultural engineers</Occupations>
+		<MedianWage>80720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Biomedical engineers</Occupations>
+		<MedianWage>91410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chemical engineers</Occupations>
+		<MedianWage>108770</MedianWage>
+	</record>
+	<record>
+		<Occupations>Civil engineers</Occupations>
+		<MedianWage>87060</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer hardware engineers</Occupations>
+		<MedianWage>117220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical and electronics engineers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical engineers</Occupations>
+		<MedianWage>98530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electronics engineers, except computer</Occupations>
+		<MedianWage>105570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Environmental engineers</Occupations>
+		<MedianWage>88860</MedianWage>
+	</record>
+	<record>
+		<Occupations>Industrial engineers, including health and safety</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health and safety engineers, except mining safety engineers and inspectors</Occupations>
+		<MedianWage>91410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Industrial engineers</Occupations>
+		<MedianWage>88020</MedianWage>
+	</record>
+	<record>
+		<Occupations>Marine engineers and naval architects</Occupations>
+		<MedianWage>92400</MedianWage>
+	</record>
+	<record>
+		<Occupations>Materials engineers</Occupations>
+		<MedianWage>93360</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mechanical engineers</Occupations>
+		<MedianWage>88430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mining and geological engineers, including mining safety engineers</Occupations>
+		<MedianWage>91160</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nuclear engineers</Occupations>
+		<MedianWage>113460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Petroleum engineers</Occupations>
+		<MedianWage>137720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Engineers, all other</Occupations>
+		<MedianWage>99040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Drafters, engineering technicians, and mapping technicians</Occupations>
+		<MedianWage>57690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Drafters</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Architectural and civil drafters</Occupations>
+		<MedianWage>56340</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical and electronics drafters</Occupations>
+		<MedianWage>61530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mechanical drafters</Occupations>
+		<MedianWage>57060</MedianWage>
+	</record>
+	<record>
+		<Occupations>Drafters, all other</Occupations>
+		<MedianWage>52830</MedianWage>
+	</record>
+	<record>
+		<Occupations>Engineering technicians, except drafters</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Aerospace engineering and operations technicians</Occupations>
+		<MedianWage>66020</MedianWage>
+	</record>
+	<record>
+		<Occupations>Civil engineering technicians</Occupations>
+		<MedianWage>53410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical and electronics engineering technicians</Occupations>
+		<MedianWage>65260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electro-mechanical technicians</Occupations>
+		<MedianWage>58350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Environmental engineering technicians</Occupations>
+		<MedianWage>50620</MedianWage>
+	</record>
+	<record>
+		<Occupations>Industrial engineering technicians</Occupations>
+		<MedianWage>56550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mechanical engineering technicians</Occupations>
+		<MedianWage>56980</MedianWage>
+	</record>
+	<record>
+		<Occupations>Engineering technicians, except drafters, all other</Occupations>
+		<MedianWage>62990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Surveying and mapping technicians</Occupations>
+		<MedianWage>45010</MedianWage>
+	</record>
+	<record>
+		<Occupations>Life, physical, and social science occupations</Occupations>
+		<MedianWage>$68,160(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Life scientists</Occupations>
+		<MedianWage>78080</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agricultural and food scientists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Animal scientists</Occupations>
+		<MedianWage>60300</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food scientists and technologists</Occupations>
+		<MedianWage>68970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Soil and plant scientists</Occupations>
+		<MedianWage>63200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Biological scientists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Biochemists and biophysicists</Occupations>
+		<MedianWage>94490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Microbiologists</Occupations>
+		<MedianWage>75650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Zoologists and wildlife biologists</Occupations>
+		<MedianWage>63270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Biological scientists, all other</Occupations>
+		<MedianWage>82220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Conservation scientists and foresters</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Conservation scientists</Occupations>
+		<MedianWage>62660</MedianWage>
+	</record>
+	<record>
+		<Occupations>Foresters</Occupations>
+		<MedianWage>61790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical scientists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Epidemiologists</Occupations>
+		<MedianWage>70990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical scientists, except epidemiologists</Occupations>
+		<MedianWage>88790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Life scientists, all other</Occupations>
+		<MedianWage>75910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physical scientists</Occupations>
+		<MedianWage>81270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Astronomers and physicists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Astronomers</Occupations>
+		<MedianWage>114590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physicists</Occupations>
+		<MedianWage>122850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Atmospheric and space scientists</Occupations>
+		<MedianWage>95380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chemists and materials scientists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chemists</Occupations>
+		<MedianWage>77630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Materials scientists</Occupations>
+		<MedianWage>96810</MedianWage>
+	</record>
+	<record>
+		<Occupations>Environmental scientists and geoscientists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Environmental scientists and specialists, including health</Occupations>
+		<MedianWage>71360</MedianWage>
+	</record>
+	<record>
+		<Occupations>Geoscientists, except hydrologists and geographers</Occupations>
+		<MedianWage>92040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Hydrologists</Occupations>
+		<MedianWage>81270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physical scientists, all other</Occupations>
+		<MedianWage>109910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social scientists and related workers</Occupations>
+		<MedianWage>80220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Economists</Occupations>
+		<MedianWage>105020</MedianWage>
+	</record>
+	<record>
+		<Occupations>Survey researchers</Occupations>
+		<MedianWage>59170</MedianWage>
+	</record>
+	<record>
+		<Occupations>Psychologists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Clinical, counseling, and school psychologists</Occupations>
+		<MedianWage>78200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Industrial-organizational psychologists</Occupations>
+		<MedianWage>92880</MedianWage>
+	</record>
+	<record>
+		<Occupations>Psychologists, all other</Occupations>
+		<MedianWage>101790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sociologists</Occupations>
+		<MedianWage>83420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Urban and regional planners</Occupations>
+		<MedianWage>74350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous social scientists and related workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Anthropologists and archeologists</Occupations>
+		<MedianWage>63670</MedianWage>
+	</record>
+	<record>
+		<Occupations>Geographers</Occupations>
+		<MedianWage>81540</MedianWage>
+	</record>
+	<record>
+		<Occupations>Historians</Occupations>
+		<MedianWage>63680</MedianWage>
+	</record>
+	<record>
+		<Occupations>Political scientists</Occupations>
+		<MedianWage>122220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social scientists and related workers, all other</Occupations>
+		<MedianWage>83330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Life, physical, and social science technicians</Occupations>
+		<MedianWage>48230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agricultural and food science technicians</Occupations>
+		<MedianWage>41230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Biological technicians</Occupations>
+		<MedianWage>45860</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chemical technicians</Occupations>
+		<MedianWage>49260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Geological and petroleum technicians</Occupations>
+		<MedianWage>51130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nuclear technicians</Occupations>
+		<MedianWage>82080</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social science research assistants</Occupations>
+		<MedianWage>47510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous life, physical, and social science technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Environmental science and protection technicians, including health</Occupations>
+		<MedianWage>46540</MedianWage>
+	</record>
+	<record>
+		<Occupations>Forensic science technicians</Occupations>
+		<MedianWage>59150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Forest and conservation technicians</Occupations>
+		<MedianWage>45500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Life, physical, and social science technicians, all other</Occupations>
+		<MedianWage>50550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Community and social service occupations</Occupations>
+		<MedianWage>46090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Counselors, social workers, and other community and social service specialists</Occupations>
+		<MedianWage>46060</MedianWage>
+	</record>
+	<record>
+		<Occupations>Counselors</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Educational, guidance, school, and vocational counselors</Occupations>
+		<MedianWage>57040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Marriage and family therapists</Occupations>
+		<MedianWage>49610</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rehabilitation counselors</Occupations>
+		<MedianWage>35950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Substance abuse, behavioral disorder, and mental health counselors</Occupations>
+		<MedianWage>46240</MedianWage>
+	</record>
+	<record>
+		<Occupations>Counselors, all other</Occupations>
+		<MedianWage>42930</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Child, family, and school social workers</Occupations>
+		<MedianWage>47390</MedianWage>
+	</record>
+	<record>
+		<Occupations>Healthcare social workers</Occupations>
+		<MedianWage>56750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mental health and substance abuse social workers</Occupations>
+		<MedianWage>46650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social workers, all other</Occupations>
+		<MedianWage>61230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous community and social service specialists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health educators</Occupations>
+		<MedianWage>55220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Probation officers and correctional treatment specialists</Occupations>
+		<MedianWage>54290</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social and human service assistants</Occupations>
+		<MedianWage>35060</MedianWage>
+	</record>
+	<record>
+		<Occupations>Community health workers</Occupations>
+		<MedianWage>40360</MedianWage>
+	</record>
+	<record>
+		<Occupations>Community and social service specialists, all other</Occupations>
+		<MedianWage>43790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Religious workers</Occupations>
+		<MedianWage>46880</MedianWage>
+	</record>
+	<record>
+		<Occupations>Clergy</Occupations>
+		<MedianWage>50400</MedianWage>
+	</record>
+	<record>
+		<Occupations>Directors, religious activities and education</Occupations>
+		<MedianWage>43860</MedianWage>
+	</record>
+	<record>
+		<Occupations>Religious workers, all other</Occupations>
+		<MedianWage>31630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Legal occupations</Occupations>
+		<MedianWage>$81,820(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Lawyers, judges, and related workers</Occupations>
+		<MedianWage>119970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Lawyers and judicial law clerks</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Lawyers</Occupations>
+		<MedianWage>122960</MedianWage>
+	</record>
+	<record>
+		<Occupations>Judicial law clerks</Occupations>
+		<MedianWage>54010</MedianWage>
+	</record>
+	<record>
+		<Occupations>Judges, magistrates, and other judicial workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Administrative law judges, adjudicators, and hearing officers</Occupations>
+		<MedianWage>97870</MedianWage>
+	</record>
+	<record>
+		<Occupations>Arbitrators, mediators, and conciliators</Occupations>
+		<MedianWage>63930</MedianWage>
+	</record>
+	<record>
+		<Occupations>Judges, magistrate judges, and magistrates</Occupations>
+		<MedianWage>136910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Legal support workers</Occupations>
+		<MedianWage>$51,920(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Paralegals and legal assistants</Occupations>
+		<MedianWage>51740</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous legal support workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Court reporters</Occupations>
+		<MedianWage>60130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Title examiners, abstractors, and searchers</Occupations>
+		<MedianWage>48180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Legal support workers, all other</Occupations>
+		<MedianWage>58400</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education, training, and library occupations</Occupations>
+		<MedianWage>50790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Postsecondary teachers</Occupations>
+		<MedianWage>$75,440(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Business teachers, postsecondary</Occupations>
+		<MedianWage>87200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Math and computer teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer science teachers, postsecondary</Occupations>
+		<MedianWage>85180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mathematical science teachers, postsecondary</Occupations>
+		<MedianWage>73690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Engineering and architecture teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Architecture teachers, postsecondary</Occupations>
+		<MedianWage>87900</MedianWage>
+	</record>
+	<record>
+		<Occupations>Engineering teachers, postsecondary</Occupations>
+		<MedianWage>101010</MedianWage>
+	</record>
+	<record>
+		<Occupations>Life sciences teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agricultural sciences teachers, postsecondary</Occupations>
+		<MedianWage>83260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Biological science teachers, postsecondary</Occupations>
+		<MedianWage>83300</MedianWage>
+	</record>
+	<record>
+		<Occupations>Forestry and conservation science teachers, postsecondary</Occupations>
+		<MedianWage>85450</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physical sciences teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Atmospheric, earth, marine, and space sciences teachers, postsecondary</Occupations>
+		<MedianWage>92040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chemistry teachers, postsecondary</Occupations>
+		<MedianWage>79550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Environmental science teachers, postsecondary</Occupations>
+		<MedianWage>82430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physics teachers, postsecondary</Occupations>
+		<MedianWage>89590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social sciences teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Anthropology and archeology teachers, postsecondary</Occupations>
+		<MedianWage>86220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Area, ethnic, and cultural studies teachers, postsecondary</Occupations>
+		<MedianWage>77070</MedianWage>
+	</record>
+	<record>
+		<Occupations>Economics teachers, postsecondary</Occupations>
+		<MedianWage>104370</MedianWage>
+	</record>
+	<record>
+		<Occupations>Geography teachers, postsecondary</Occupations>
+		<MedianWage>80520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Political science teachers, postsecondary</Occupations>
+		<MedianWage>85930</MedianWage>
+	</record>
+	<record>
+		<Occupations>Psychology teachers, postsecondary</Occupations>
+		<MedianWage>76620</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sociology teachers, postsecondary</Occupations>
+		<MedianWage>75290</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social sciences teachers, postsecondary, all other</Occupations>
+		<MedianWage>71530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health specialties teachers, postsecondary</Occupations>
+		<MedianWage>97320</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nursing instructors and teachers, postsecondary</Occupations>
+		<MedianWage>74600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education and library science teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education teachers, postsecondary</Occupations>
+		<MedianWage>65510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Library science teachers, postsecondary</Occupations>
+		<MedianWage>71410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Law, criminal justice, and social work teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Criminal justice and law enforcement teachers, postsecondary</Occupations>
+		<MedianWage>62860</MedianWage>
+	</record>
+	<record>
+		<Occupations>Law teachers, postsecondary</Occupations>
+		<MedianWage>113530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Social work teachers, postsecondary</Occupations>
+		<MedianWage>72070</MedianWage>
+	</record>
+	<record>
+		<Occupations>Arts, communications, and humanities teachers, postsecondary</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Art, drama, and music teachers, postsecondary</Occupations>
+		<MedianWage>69530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Communications teachers, postsecondary</Occupations>
+		<MedianWage>70630</MedianWage>
+	</record>
+	<record>
+		<Occupations>English language and literature teachers, postsecondary</Occupations>
+		<MedianWage>68490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Foreign language and literature teachers, postsecondary</Occupations>
+		<MedianWage>69990</MedianWage>
+	</record>
+	<record>
+		<Occupations>History teachers, postsecondary</Occupations>
+		<MedianWage>75170</MedianWage>
+	</record>
+	<record>
+		<Occupations>Philosophy and religion teachers, postsecondary</Occupations>
+		<MedianWage>75240</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous postsecondary teachers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Graduate teaching assistants</Occupations>
+		<MedianWage>32080</MedianWage>
+	</record>
+	<record>
+		<Occupations>Home economics teachers, postsecondary</Occupations>
+		<MedianWage>76480</MedianWage>
+	</record>
+	<record>
+		<Occupations>Recreation and fitness studies teachers, postsecondary</Occupations>
+		<MedianWage>64380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Vocational education teachers, postsecondary</Occupations>
+		<MedianWage>54620</MedianWage>
+	</record>
+	<record>
+		<Occupations>Postsecondary teachers, all other</Occupations>
+		<MedianWage>68970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Preschool, primary, secondary, and special education school teachers</Occupations>
+		<MedianWage>58050</MedianWage>
+	</record>
+	<record>
+		<Occupations>Preschool and kindergarten teachers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Preschool teachers, except special education</Occupations>
+		<MedianWage>30520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Kindergarten teachers, except special education</Occupations>
+		<MedianWage>56850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Elementary and middle school teachers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Elementary school teachers, except special education</Occupations>
+		<MedianWage>59670</MedianWage>
+	</record>
+	<record>
+		<Occupations>Middle school teachers, except special and career/technical education</Occupations>
+		<MedianWage>59660</MedianWage>
+	</record>
+	<record>
+		<Occupations>Career/technical education teachers, middle school</Occupations>
+		<MedianWage>60800</MedianWage>
+	</record>
+	<record>
+		<Occupations>Secondary school teachers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Secondary school teachers, except special and career/technical education</Occupations>
+		<MedianWage>61660</MedianWage>
+	</record>
+	<record>
+		<Occupations>Career/technical education teachers, secondary school</Occupations>
+		<MedianWage>61710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Special education teachers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Special education teachers, preschool</Occupations>
+		<MedianWage>60000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Special education teachers, kindergarten and elementary school</Occupations>
+		<MedianWage>60460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Special education teachers, middle school</Occupations>
+		<MedianWage>61440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Special education teachers, secondary school</Occupations>
+		<MedianWage>61710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Special education teachers, all other</Occupations>
+		<MedianWage>61190</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other teachers and instructors</Occupations>
+		<MedianWage>33140</MedianWage>
+	</record>
+	<record>
+		<Occupations>Adult basic and secondary education and literacy teachers and instructors</Occupations>
+		<MedianWage>54350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Self-enrichment education teachers</Occupations>
+		<MedianWage>39190</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous teachers and instructors</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Teachers and instructors, all other, except substitute teachers</Occupations>
+		<MedianWage>39350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Substitute teachers</Occupations>
+		<MedianWage>28790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Librarians, curators, and archivists</Occupations>
+		<MedianWage>$49,030(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Archivists, curators, and museum technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Archivists</Occupations>
+		<MedianWage>53950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Curators</Occupations>
+		<MedianWage>54570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Museum technicians and conservators</Occupations>
+		<MedianWage>44430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Librarians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Library technicians</Occupations>
+		<MedianWage>34900</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other education, training, and library occupations</Occupations>
+		<MedianWage>$29,910(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Audio-visual and multimedia collections specialists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Farm and home management advisors</Occupations>
+		<MedianWage>49710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Instructional coordinators</Occupations>
+		<MedianWage>66290</MedianWage>
+	</record>
+	<record>
+		<Occupations>Teacher assistants</Occupations>
+		<MedianWage>27920</MedianWage>
+	</record>
+	<record>
+		<Occupations>Education, training, and library workers, all other</Occupations>
+		<MedianWage>40310</MedianWage>
+	</record>
+	<record>
+		<Occupations>Arts, design, entertainment, sports, and media occupations</Occupations>
+		<MedianWage>$51,150(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Art and design workers</Occupations>
+		<MedianWage>48130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Artists and related workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Art directors</Occupations>
+		<MedianWage>94220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Craft artists</Occupations>
+		<MedianWage>34710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fine artists, including painters, sculptors, and illustrators</Occupations>
+		<MedianWage>50550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Multimedia artists and animators</Occupations>
+		<MedianWage>75270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Artists and related workers, all other</Occupations>
+		<MedianWage>64490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Designers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Commercial and industrial designers</Occupations>
+		<MedianWage>68890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fashion designers</Occupations>
+		<MedianWage>73790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Floral designers</Occupations>
+		<MedianWage>28040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Graphic designers</Occupations>
+		<MedianWage>52110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Interior designers</Occupations>
+		<MedianWage>56040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Merchandise displayers and window trimmers</Occupations>
+		<MedianWage>29460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Set and exhibit designers</Occupations>
+		<MedianWage>54600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Designers, all other</Occupations>
+		<MedianWage>64620</MedianWage>
+	</record>
+	<record>
+		<Occupations>Entertainers and performers, sports and related workers</Occupations>
+		<MedianWage>45250</MedianWage>
+	</record>
+	<record>
+		<Occupations>Actors, producers, and directors</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Actors</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Producers and directors</Occupations>
+		<MedianWage>74420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Athletes, coaches, umpires, and related workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Athletes and sports competitors</Occupations>
+		<MedianWage>51370</MedianWage>
+	</record>
+	<record>
+		<Occupations>Coaches and scouts</Occupations>
+		<MedianWage>34840</MedianWage>
+	</record>
+	<record>
+		<Occupations>Umpires, referees, and other sports officials</Occupations>
+		<MedianWage>28550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dancers and choreographers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dancers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Choreographers</Occupations>
+		<MedianWage>46330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Musicians, singers, and related workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Music directors and composers</Occupations>
+		<MedianWage>51670</MedianWage>
+	</record>
+	<record>
+		<Occupations>Musicians and singers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Entertainers and performers, sports and related workers, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Media and communication workers</Occupations>
+		<MedianWage>$59,230(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Announcers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Radio and television announcers</Occupations>
+		<MedianWage>34630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Public address system and other announcers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>News analysts, reporters and correspondents</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Broadcast news analysts</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Reporters and correspondents</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Public relations specialists</Occupations>
+		<MedianWage>61150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Writers and editors</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Editors</Occupations>
+		<MedianWage>61370</MedianWage>
+	</record>
+	<record>
+		<Occupations>Technical writers</Occupations>
+		<MedianWage>72850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Writers and authors</Occupations>
+		<MedianWage>63200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous media and communication workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Interpreters and translators</Occupations>
+		<MedianWage>51830</MedianWage>
+	</record>
+	<record>
+		<Occupations>Media and communication workers, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Media and communication equipment workers</Occupations>
+		<MedianWage>$48,270(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Broadcast and sound engineering technicians and radio operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Audio and video equipment technicians</Occupations>
+		<MedianWage>45910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Broadcast technicians</Occupations>
+		<MedianWage>40570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Radio operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sound engineering technicians</Occupations>
+		<MedianWage>54740</MedianWage>
+	</record>
+	<record>
+		<Occupations>Photographers</Occupations>
+		<MedianWage>36280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Television, video, and motion picture camera operators and editors</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Camera operators, television, video, and motion picture</Occupations>
+		<MedianWage>55160</MedianWage>
+	</record>
+	<record>
+		<Occupations>Film and video editors</Occupations>
+		<MedianWage>63780</MedianWage>
+	</record>
+	<record>
+		<Occupations>Media and communication equipment workers, all other</Occupations>
+		<MedianWage>73460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Healthcare practitioners and technical occupations</Occupations>
+		<MedianWage>$68,190(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health diagnosing and treating practitioners</Occupations>
+		<MedianWage>$82,380(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chiropractors</Occupations>
+		<MedianWage>70340</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dentists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dentists, general</Occupations>
+		<MedianWage>155600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Oral and maxillofacial surgeons</Occupations>
+		<MedianWage>&gt;=$208,000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Orthodontists</Occupations>
+		<MedianWage>&gt;=$208,000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Prosthodontists</Occupations>
+		<MedianWage>&gt;=$208,000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dentists, all other specialists</Occupations>
+		<MedianWage>147220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dietitians and nutritionists</Occupations>
+		<MedianWage>61270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Optometrists</Occupations>
+		<MedianWage>115250</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pharmacists</Occupations>
+		<MedianWage>128090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physicians and surgeons</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Anesthesiologists</Occupations>
+		<MedianWage>&gt;=$208,000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Family and general practitioners</Occupations>
+		<MedianWage>205590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Internists, general</Occupations>
+		<MedianWage>201590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Obstetricians and gynecologists</Occupations>
+		<MedianWage>&gt;=$208,000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pediatricians, general</Occupations>
+		<MedianWage>175310</MedianWage>
+	</record>
+	<record>
+		<Occupations>Psychiatrists</Occupations>
+		<MedianWage>&gt;=$208,000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Surgeons</Occupations>
+		<MedianWage>&gt;=$208,000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physicians and surgeons, all other</Occupations>
+		<MedianWage>206500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physician assistants</Occupations>
+		<MedianWage>112260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Podiatrists</Occupations>
+		<MedianWage>126240</MedianWage>
+	</record>
+	<record>
+		<Occupations>Therapists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Occupational therapists</Occupations>
+		<MedianWage>84950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physical therapists</Occupations>
+		<MedianWage>89440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Radiation therapists</Occupations>
+		<MedianWage>85560</MedianWage>
+	</record>
+	<record>
+		<Occupations>Recreational therapists</Occupations>
+		<MedianWage>48220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Respiratory therapists</Occupations>
+		<MedianWage>61330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Speech-language pathologists</Occupations>
+		<MedianWage>79120</MedianWage>
+	</record>
+	<record>
+		<Occupations>Exercise physiologists</Occupations>
+		<MedianWage>49170</MedianWage>
+	</record>
+	<record>
+		<Occupations>Therapists, all other</Occupations>
+		<MedianWage>52650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Veterinarians</Occupations>
+		<MedianWage>95460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Registered nurses</Occupations>
+		<MedianWage>73300</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nurse anesthetists</Occupations>
+		<MedianWage>174790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nurse midwives</Occupations>
+		<MedianWage>105030</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nurse practitioners</Occupations>
+		<MedianWage>109820</MedianWage>
+	</record>
+	<record>
+		<Occupations>Audiologists</Occupations>
+		<MedianWage>77600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health diagnosing and treating practitioners, all other</Occupations>
+		<MedianWage>75640</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health technologists and technicians</Occupations>
+		<MedianWage>$44,380(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Clinical laboratory technologists and technicians</Occupations>
+		<MedianWage>53120</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dental hygienists</Occupations>
+		<MedianWage>76220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Diagnostic related technologists and technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cardiovascular technologists and technicians</Occupations>
+		<MedianWage>57720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Diagnostic medical sonographers</Occupations>
+		<MedianWage>74320</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nuclear medicine technologists</Occupations>
+		<MedianWage>77950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Radiologic technologists</Occupations>
+		<MedianWage>60510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Magnetic resonance imaging technologists</Occupations>
+		<MedianWage>73410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Emergency medical technicians and paramedics</Occupations>
+		<MedianWage>35400</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health practitioner support technologists and technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dietetic technicians</Occupations>
+		<MedianWage>28400</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pharmacy technicians</Occupations>
+		<MedianWage>33950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Psychiatric technicians</Occupations>
+		<MedianWage>33780</MedianWage>
+	</record>
+	<record>
+		<Occupations>Respiratory therapy technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Surgical technologists</Occupations>
+		<MedianWage>48300</MedianWage>
+	</record>
+	<record>
+		<Occupations>Veterinary technologists and technicians</Occupations>
+		<MedianWage>35320</MedianWage>
+	</record>
+	<record>
+		<Occupations>Ophthalmic medical technicians</Occupations>
+		<MedianWage>36940</MedianWage>
+	</record>
+	<record>
+		<Occupations>Licensed practical and licensed vocational nurses</Occupations>
+		<MedianWage>47480</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical records and health information technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Opticians, dispensing</Occupations>
+		<MedianWage>37840</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous health technologists and technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Orthotists and prosthetists</Occupations>
+		<MedianWage>68410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Hearing aid specialists</Occupations>
+		<MedianWage>53420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Health technologists and technicians, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other healthcare practitioners and technical occupations</Occupations>
+		<MedianWage>$49,770(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Occupational health and safety specialists and technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Occupational health and safety specialists</Occupations>
+		<MedianWage>74100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Occupational health and safety technicians</Occupations>
+		<MedianWage>51550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous health practitioners and technical workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Athletic trainers</Occupations>
+		<MedianWage>48440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Genetic counselors</Occupations>
+		<MedianWage>81880</MedianWage>
+	</record>
+	<record>
+		<Occupations>Healthcare practitioners and technical workers, all other</Occupations>
+		<MedianWage>49850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Healthcare support occupations</Occupations>
+		<MedianWage>$28,470(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nursing, psychiatric, and home health aides</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Home health aides</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Psychiatric aides</Occupations>
+		<MedianWage>31110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nursing assistants</Occupations>
+		<MedianWage>29660</MedianWage>
+	</record>
+	<record>
+		<Occupations>Orderlies</Occupations>
+		<MedianWage>28980</MedianWage>
+	</record>
+	<record>
+		<Occupations>Occupational therapy and physical therapist assistants and aides</Occupations>
+		<MedianWage>52910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Occupational therapy assistants and aides</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Occupational therapy assistants</Occupations>
+		<MedianWage>61510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Occupational therapy aides</Occupations>
+		<MedianWage>29230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physical therapist assistants and aides</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physical therapist assistants</Occupations>
+		<MedianWage>58790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Physical therapist aides</Occupations>
+		<MedianWage>27000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other healthcare support occupations</Occupations>
+		<MedianWage>35860</MedianWage>
+	</record>
+	<record>
+		<Occupations>Massage therapists</Occupations>
+		<MedianWage>42820</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous healthcare support occupations</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dental assistants</Occupations>
+		<MedianWage>40080</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical assistants</Occupations>
+		<MedianWage>34800</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical equipment preparers</Occupations>
+		<MedianWage>37440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical transcriptionists</Occupations>
+		<MedianWage>33380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pharmacy aides</Occupations>
+		<MedianWage>27850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Veterinary assistants and laboratory animal caretakers</Occupations>
+		<MedianWage>28590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Phlebotomists</Occupations>
+		<MedianWage>35510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Healthcare support workers, all other</Occupations>
+		<MedianWage>38460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Protective service occupations</Occupations>
+		<MedianWage>41580</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of protective service workers</Occupations>
+		<MedianWage>71460</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of law enforcement workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of correctional officers</Occupations>
+		<MedianWage>63730</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of police and detectives</Occupations>
+		<MedianWage>91090</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of fire fighting and prevention workers</Occupations>
+		<MedianWage>77800</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of protective service workers, all other</Occupations>
+		<MedianWage>50490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fire fighting and prevention workers</Occupations>
+		<MedianWage>51330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Firefighters</Occupations>
+		<MedianWage>50850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fire inspectors</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fire inspectors and investigators</Occupations>
+		<MedianWage>61660</MedianWage>
+	</record>
+	<record>
+		<Occupations>Forest fire inspectors and prevention specialists</Occupations>
+		<MedianWage>45270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Law enforcement workers</Occupations>
+		<MedianWage>57030</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bailiffs, correctional officers, and jailers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bailiffs</Occupations>
+		<MedianWage>47830</MedianWage>
+	</record>
+	<record>
+		<Occupations>Correctional officers and jailers</Occupations>
+		<MedianWage>45180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Detectives and criminal investigators</Occupations>
+		<MedianWage>83170</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fish and game wardens</Occupations>
+		<MedianWage>57500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Parking enforcement workers</Occupations>
+		<MedianWage>40920</MedianWage>
+	</record>
+	<record>
+		<Occupations>Police officers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Police and sheriff's patrol officers</Occupations>
+		<MedianWage>63150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Transit and railroad police</Occupations>
+		<MedianWage>71820</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other protective service workers</Occupations>
+		<MedianWage>29770</MedianWage>
+	</record>
+	<record>
+		<Occupations>Animal control workers</Occupations>
+		<MedianWage>37590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Private detectives and investigators</Occupations>
+		<MedianWage>50510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Security guards and gaming surveillance officers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gaming surveillance officers and gaming investigators</Occupations>
+		<MedianWage>34190</MedianWage>
+	</record>
+	<record>
+		<Occupations>Security guards</Occupations>
+		<MedianWage>29680</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous protective service workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Crossing guards</Occupations>
+		<MedianWage>29760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Lifeguards, ski patrol, and other recreational protective service workers</Occupations>
+		<MedianWage>23420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Transportation security screeners</Occupations>
+		<MedianWage>41770</MedianWage>
+	</record>
+	<record>
+		<Occupations>Protective service workers, all other</Occupations>
+		<MedianWage>30990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food preparation and serving related occupations</Occupations>
+		<MedianWage>24220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of food preparation and serving workers</Occupations>
+		<MedianWage>34830</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chefs and head cooks</Occupations>
+		<MedianWage>51530</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of food preparation and serving workers</Occupations>
+		<MedianWage>33400</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooks and food preparation workers</Occupations>
+		<MedianWage>25890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooks</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooks, fast food</Occupations>
+		<MedianWage>23510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooks, institution and cafeteria</Occupations>
+		<MedianWage>27750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooks, private household</Occupations>
+		<MedianWage>37870</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooks, restaurant</Occupations>
+		<MedianWage>27790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooks, short order</Occupations>
+		<MedianWage>25150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooks, all other</Occupations>
+		<MedianWage>30760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food preparation workers</Occupations>
+		<MedianWage>24800</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food and beverage serving workers</Occupations>
+		<MedianWage>22930</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bartenders</Occupations>
+		<MedianWage>23680</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fast food and counter workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Combined food preparation and serving workers, including fast food</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Counter attendants, cafeteria, food concession, and coffee shop</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Waiters and waitresses</Occupations>
+		<MedianWage>22890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food servers, nonrestaurant</Occupations>
+		<MedianWage>24430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other food preparation and serving related workers</Occupations>
+		<MedianWage>23650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dining room and cafeteria attendants and bartender helpers</Occupations>
+		<MedianWage>23470</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dishwashers</Occupations>
+		<MedianWage>23970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Hosts and hostesses, restaurant, lounge, and coffee shop</Occupations>
+		<MedianWage>23090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food preparation and serving related workers, all other</Occupations>
+		<MedianWage>24970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Building and grounds cleaning and maintenance occupations</Occupations>
+		<MedianWage>28330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of building and grounds cleaning and maintenance workers</Occupations>
+		<MedianWage>44490</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of housekeeping and janitorial workers</Occupations>
+		<MedianWage>40780</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of landscaping, lawn service, and groundskeeping workers</Occupations>
+		<MedianWage>49370</MedianWage>
+	</record>
+	<record>
+		<Occupations>Building cleaning and pest control workers</Occupations>
+		<MedianWage>26570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Building cleaning workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Janitors and cleaners, except maids and housekeeping cleaners</Occupations>
+		<MedianWage>27430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Maids and housekeeping cleaners</Occupations>
+		<MedianWage>24850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Building cleaning workers, all other</Occupations>
+		<MedianWage>31230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pest control workers</Occupations>
+		<MedianWage>37330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Grounds maintenance workers</Occupations>
+		<MedianWage>30890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Landscaping and groundskeeping workers</Occupations>
+		<MedianWage>30440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pesticide handlers, sprayers, and applicators, vegetation</Occupations>
+		<MedianWage>35840</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tree trimmers and pruners</Occupations>
+		<MedianWage>39980</MedianWage>
+	</record>
+	<record>
+		<Occupations>Grounds maintenance workers, all other</Occupations>
+		<MedianWage>32090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Personal care and service occupations</Occupations>
+		<MedianWage>$26,220(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of personal care and service workers</Occupations>
+		<MedianWage>40930</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of gaming workers</Occupations>
+		<MedianWage>50710</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of personal service workers</Occupations>
+		<MedianWage>39800</MedianWage>
+	</record>
+	<record>
+		<Occupations>Animal care and service workers</Occupations>
+		<MedianWage>24990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Animal trainers</Occupations>
+		<MedianWage>30430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nonfarm animal caretakers</Occupations>
+		<MedianWage>24780</MedianWage>
+	</record>
+	<record>
+		<Occupations>Entertainment attendants and related workers</Occupations>
+		<MedianWage>23260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gaming services workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gaming dealers</Occupations>
+		<MedianWage>21260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gaming and sports book writers and runners</Occupations>
+		<MedianWage>24750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gaming service workers, all other</Occupations>
+		<MedianWage>28300</MedianWage>
+	</record>
+	<record>
+		<Occupations>Motion picture projectionists</Occupations>
+		<MedianWage>25150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Ushers, lobby attendants, and ticket takers</Occupations>
+		<MedianWage>23500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous entertainment attendants and related workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Amusement and recreation attendants</Occupations>
+		<MedianWage>23370</MedianWage>
+	</record>
+	<record>
+		<Occupations>Costume attendants</Occupations>
+		<MedianWage>41410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Locker room, coatroom, and dressing room attendants</Occupations>
+		<MedianWage>25110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Entertainment attendants and related workers, all other</Occupations>
+		<MedianWage>26460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Funeral service workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Embalmers</Occupations>
+		<MedianWage>47760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Funeral attendants</Occupations>
+		<MedianWage>27930</MedianWage>
+	</record>
+	<record>
+		<Occupations>Morticians, undertakers, and funeral directors</Occupations>
+		<MedianWage>54150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Personal appearance workers</Occupations>
+		<MedianWage>26430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Barbers, hairdressers, hairstylists and cosmetologists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Barbers</Occupations>
+		<MedianWage>30150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Hairdressers, hairstylists, and cosmetologists</Occupations>
+		<MedianWage>26090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous personal appearance workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Makeup artists, theatrical and performance</Occupations>
+		<MedianWage>75730</MedianWage>
+	</record>
+	<record>
+		<Occupations>Manicurists and pedicurists</Occupations>
+		<MedianWage>25770</MedianWage>
+	</record>
+	<record>
+		<Occupations>Shampooers</Occupations>
+		<MedianWage>22550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Skincare specialists</Occupations>
+		<MedianWage>34090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Baggage porters, bellhops, and concierges</Occupations>
+		<MedianWage>28550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Baggage porters and bellhops</Occupations>
+		<MedianWage>25580</MedianWage>
+	</record>
+	<record>
+		<Occupations>Concierges</Occupations>
+		<MedianWage>31390</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tour and travel guides</Occupations>
+		<MedianWage>27600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other personal care and service workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Childcare workers</Occupations>
+		<MedianWage>24230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Personal care aides</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Recreation and fitness workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fitness trainers and aerobics instructors</Occupations>
+		<MedianWage>40390</MedianWage>
+	</record>
+	<record>
+		<Occupations>Recreation workers</Occupations>
+		<MedianWage>26350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Residential advisors</Occupations>
+		<MedianWage>29450</MedianWage>
+	</record>
+	<record>
+		<Occupations>Personal care and service workers, all other</Occupations>
+		<MedianWage>27130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales and related occupations</Occupations>
+		<MedianWage>29630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of sales workers</Occupations>
+		<MedianWage>44250</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of retail sales workers</Occupations>
+		<MedianWage>40350</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of non-retail sales workers</Occupations>
+		<MedianWage>74760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Retail sales workers</Occupations>
+		<MedianWage>24630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cashiers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cashiers</Occupations>
+		<MedianWage>23650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gaming change persons and booth cashiers</Occupations>
+		<MedianWage>25690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Counter and rental clerks and parts salespersons</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Counter and rental clerks</Occupations>
+		<MedianWage>28820</MedianWage>
+	</record>
+	<record>
+		<Occupations>Parts salespersons</Occupations>
+		<MedianWage>31710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Retail salespersons</Occupations>
+		<MedianWage>25250</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales representatives, services</Occupations>
+		<MedianWage>55370</MedianWage>
+	</record>
+	<record>
+		<Occupations>Advertising sales agents</Occupations>
+		<MedianWage>53310</MedianWage>
+	</record>
+	<record>
+		<Occupations>Insurance sales agents</Occupations>
+		<MedianWage>50940</MedianWage>
+	</record>
+	<record>
+		<Occupations>Securities, commodities, and financial services sales agents</Occupations>
+		<MedianWage>62270</MedianWage>
+	</record>
+	<record>
+		<Occupations>Travel agents</Occupations>
+		<MedianWage>40660</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales representatives, services, all other</Occupations>
+		<MedianWage>56130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales representatives, wholesale and manufacturing</Occupations>
+		<MedianWage>63000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales representatives, wholesale and manufacturing, technical and scientific products</Occupations>
+		<MedianWage>81020</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales representatives, wholesale and manufacturing, except technical and scientific products</Occupations>
+		<MedianWage>59930</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other sales and related workers</Occupations>
+		<MedianWage>37220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Models, demonstrators, and product promoters</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Demonstrators and product promoters</Occupations>
+		<MedianWage>30930</MedianWage>
+	</record>
+	<record>
+		<Occupations>Models</Occupations>
+		<MedianWage>28350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Real estate brokers and sales agents</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Real estate brokers</Occupations>
+		<MedianWage>59720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Real estate sales agents</Occupations>
+		<MedianWage>48930</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales engineers</Occupations>
+		<MedianWage>103900</MedianWage>
+	</record>
+	<record>
+		<Occupations>Telemarketers</Occupations>
+		<MedianWage>26290</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous sales and related workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Door-to-door sales workers, news and street vendors, and related workers</Occupations>
+		<MedianWage>27420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sales and related workers, all other</Occupations>
+		<MedianWage>31820</MedianWage>
+	</record>
+	<record>
+		<Occupations>Office and administrative support occupations</Occupations>
+		<MedianWage>$37,580(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of office and administrative support workers</Occupations>
+		<MedianWage>56620</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of office and administrative support workers</Occupations>
+		<MedianWage>56620</MedianWage>
+	</record>
+	<record>
+		<Occupations>Communications equipment operators</Occupations>
+		<MedianWage>$31,070(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Switchboard operators, including answering service</Occupations>
+		<MedianWage>30610</MedianWage>
+	</record>
+	<record>
+		<Occupations>Telephone operators</Occupations>
+		<MedianWage>35750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Communications equipment operators, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Financial clerks</Occupations>
+		<MedianWage>38510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bill and account collectors</Occupations>
+		<MedianWage>37000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Billing and posting clerks</Occupations>
+		<MedianWage>38740</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bookkeeping, accounting, and auditing clerks</Occupations>
+		<MedianWage>41230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gaming cage workers</Occupations>
+		<MedianWage>28040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Payroll and timekeeping clerks</Occupations>
+		<MedianWage>46180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Procurement clerks</Occupations>
+		<MedianWage>43310</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tellers</Occupations>
+		<MedianWage>31230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Financial clerks, all other</Occupations>
+		<MedianWage>42420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Information and record clerks</Occupations>
+		<MedianWage>34050</MedianWage>
+	</record>
+	<record>
+		<Occupations>Brokerage clerks</Occupations>
+		<MedianWage>52750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Correspondence clerks</Occupations>
+		<MedianWage>38140</MedianWage>
+	</record>
+	<record>
+		<Occupations>Court, municipal, and license clerks</Occupations>
+		<MedianWage>39380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Credit authorizers, checkers, and clerks</Occupations>
+		<MedianWage>40100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Customer service representatives</Occupations>
+		<MedianWage>34710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Eligibility interviewers, government programs</Occupations>
+		<MedianWage>46590</MedianWage>
+	</record>
+	<record>
+		<Occupations>File clerks</Occupations>
+		<MedianWage>32710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Hotel, motel, and resort desk clerks</Occupations>
+		<MedianWage>24470</MedianWage>
+	</record>
+	<record>
+		<Occupations>Interviewers, except eligibility and loan</Occupations>
+		<MedianWage>34970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Library assistants, clerical</Occupations>
+		<MedianWage>27490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Loan interviewers and clerks</Occupations>
+		<MedianWage>40640</MedianWage>
+	</record>
+	<record>
+		<Occupations>New accounts clerks</Occupations>
+		<MedianWage>36550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Order clerks</Occupations>
+		<MedianWage>34240</MedianWage>
+	</record>
+	<record>
+		<Occupations>Human resources assistants, except payroll and timekeeping</Occupations>
+		<MedianWage>41430</MedianWage>
+	</record>
+	<record>
+		<Occupations>Receptionists and information clerks</Occupations>
+		<MedianWage>30050</MedianWage>
+	</record>
+	<record>
+		<Occupations>Reservation and transportation ticket agents and travel clerks</Occupations>
+		<MedianWage>38380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Information and record clerks, all other</Occupations>
+		<MedianWage>41360</MedianWage>
+	</record>
+	<record>
+		<Occupations>Material recording, scheduling, dispatching, and distributing workers</Occupations>
+		<MedianWage>$40,320(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cargo and freight agents</Occupations>
+		<MedianWage>43740</MedianWage>
+	</record>
+	<record>
+		<Occupations>Couriers and messengers</Occupations>
+		<MedianWage>29690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dispatchers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Police, fire, and ambulance dispatchers</Occupations>
+		<MedianWage>41910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dispatchers, except police, fire, and ambulance</Occupations>
+		<MedianWage>40190</MedianWage>
+	</record>
+	<record>
+		<Occupations>Meter readers, utilities</Occupations>
+		<MedianWage>42280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Postal service workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Postal service clerks</Occupations>
+		<MedianWage>48330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Postal service mail carriers</Occupations>
+		<MedianWage>51310</MedianWage>
+	</record>
+	<record>
+		<Occupations>Postal service mail sorters, processors, and processing machine operators</Occupations>
+		<MedianWage>60140</MedianWage>
+	</record>
+	<record>
+		<Occupations>Production, planning, and expediting clerks</Occupations>
+		<MedianWage>48260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Shipping, receiving, and traffic clerks</Occupations>
+		<MedianWage>34190</MedianWage>
+	</record>
+	<record>
+		<Occupations>Stock clerks and order fillers</Occupations>
+		<MedianWage>27380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Weighers, measurers, checkers, and samplers, recordkeeping</Occupations>
+		<MedianWage>35040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Secretaries and administrative assistants</Occupations>
+		<MedianWage>39850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Executive secretaries and executive administrative assistants</Occupations>
+		<MedianWage>60890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Legal secretaries</Occupations>
+		<MedianWage>47300</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical secretaries</Occupations>
+		<MedianWage>36580</MedianWage>
+	</record>
+	<record>
+		<Occupations>Secretaries and administrative assistants, except legal, medical, and executive</Occupations>
+		<MedianWage>37690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other office and administrative support workers</Occupations>
+		<MedianWage>$34,670(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Data entry and information processing workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Data entry keyers</Occupations>
+		<MedianWage>33490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Word processors and typists</Occupations>
+		<MedianWage>40340</MedianWage>
+	</record>
+	<record>
+		<Occupations>Desktop publishers</Occupations>
+		<MedianWage>45390</MedianWage>
+	</record>
+	<record>
+		<Occupations>Insurance claims and policy processing clerks</Occupations>
+		<MedianWage>40750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mail clerks and mail machine operators, except postal service</Occupations>
+		<MedianWage>30960</MedianWage>
+	</record>
+	<record>
+		<Occupations>Office clerks, general</Occupations>
+		<MedianWage>34040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Office machine operators, except computer</Occupations>
+		<MedianWage>33450</MedianWage>
+	</record>
+	<record>
+		<Occupations>Proofreaders and copy markers</Occupations>
+		<MedianWage>40630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Statistical assistants</Occupations>
+		<MedianWage>49870</MedianWage>
+	</record>
+	<record>
+		<Occupations>Office and administrative support workers, all other</Occupations>
+		<MedianWage>35470</MedianWage>
+	</record>
+	<record>
+		<Occupations>Farming, fishing, and forestry occupations</Occupations>
+		<MedianWage>27180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of farming, fishing, and forestry workers</Occupations>
+		<MedianWage>48280</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of farming, fishing, and forestry workers</Occupations>
+		<MedianWage>48280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agricultural workers</Occupations>
+		<MedianWage>26030</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agricultural inspectors</Occupations>
+		<MedianWage>45490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Animal breeders</Occupations>
+		<MedianWage>42920</MedianWage>
+	</record>
+	<record>
+		<Occupations>Graders and sorters, agricultural products</Occupations>
+		<MedianWage>25670</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous agricultural workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agricultural equipment operators</Occupations>
+		<MedianWage>31950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Farmworkers and laborers, crop, nursery, and greenhouse</Occupations>
+		<MedianWage>25440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Farmworkers, farm, ranch, and aquacultural animals</Occupations>
+		<MedianWage>27830</MedianWage>
+	</record>
+	<record>
+		<Occupations>Agricultural workers, all other</Occupations>
+		<MedianWage>29590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fishing and hunting workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Forest, conservation, and logging workers</Occupations>
+		<MedianWage>39090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Forest and conservation workers</Occupations>
+		<MedianWage>31770</MedianWage>
+	</record>
+	<record>
+		<Occupations>Logging workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fallers</Occupations>
+		<MedianWage>44650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Logging equipment operators</Occupations>
+		<MedianWage>41440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Log graders and scalers</Occupations>
+		<MedianWage>37280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Logging workers, all other</Occupations>
+		<MedianWage>39780</MedianWage>
+	</record>
+	<record>
+		<Occupations>Construction and extraction occupations</Occupations>
+		<MedianWage>$47,430(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of construction and extraction workers</Occupations>
+		<MedianWage>66210</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of construction trades and extraction workers</Occupations>
+		<MedianWage>66210</MedianWage>
+	</record>
+	<record>
+		<Occupations>Construction trades workers</Occupations>
+		<MedianWage>46340</MedianWage>
+	</record>
+	<record>
+		<Occupations>Boilermakers</Occupations>
+		<MedianWage>63100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Brickmasons, blockmasons, and stonemasons</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Brickmasons and blockmasons</Occupations>
+		<MedianWage>53100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Stonemasons</Occupations>
+		<MedianWage>43280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Carpenters</Occupations>
+		<MedianWage>48330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Carpet, floor, and tile installers and finishers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Carpet installers</Occupations>
+		<MedianWage>40090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Floor layers, except carpet, wood, and hard tiles</Occupations>
+		<MedianWage>44240</MedianWage>
+	</record>
+	<record>
+		<Occupations>Floor sanders and finishers</Occupations>
+		<MedianWage>39610</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tile and marble setters</Occupations>
+		<MedianWage>43050</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cement masons, concrete finishers, and terrazzo workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cement masons and concrete finishers</Occupations>
+		<MedianWage>44810</MedianWage>
+	</record>
+	<record>
+		<Occupations>Terrazzo workers and finishers</Occupations>
+		<MedianWage>52180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Construction laborers</Occupations>
+		<MedianWage>36860</MedianWage>
+	</record>
+	<record>
+		<Occupations>Construction equipment operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Paving, surfacing, and tamping equipment operators</Occupations>
+		<MedianWage>40130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pile-driver operators</Occupations>
+		<MedianWage>62600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Operating engineers and other construction equipment operators</Occupations>
+		<MedianWage>48980</MedianWage>
+	</record>
+	<record>
+		<Occupations>Drywall installers, ceiling tile installers, and tapers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Drywall and ceiling tile installers</Occupations>
+		<MedianWage>45700</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tapers</Occupations>
+		<MedianWage>59070</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electricians</Occupations>
+		<MedianWage>56180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Glaziers</Occupations>
+		<MedianWage>44630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Insulation workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Insulation workers, floor, ceiling, and wall</Occupations>
+		<MedianWage>40380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Insulation workers, mechanical</Occupations>
+		<MedianWage>48690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Painters and paperhangers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Painters, construction and maintenance</Occupations>
+		<MedianWage>40280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Paperhangers</Occupations>
+		<MedianWage>40520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pipelayers, plumbers, pipefitters, and steamfitters</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pipelayers</Occupations>
+		<MedianWage>38820</MedianWage>
+	</record>
+	<record>
+		<Occupations>Plumbers, pipefitters, and steamfitters</Occupations>
+		<MedianWage>55160</MedianWage>
+	</record>
+	<record>
+		<Occupations>Plasterers and stucco masons</Occupations>
+		<MedianWage>45440</MedianWage>
+	</record>
+	<record>
+		<Occupations>Reinforcing iron and rebar workers</Occupations>
+		<MedianWage>49100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Roofers</Occupations>
+		<MedianWage>42100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sheet metal workers</Occupations>
+		<MedianWage>50400</MedianWage>
+	</record>
+	<record>
+		<Occupations>Structural iron and steel workers</Occupations>
+		<MedianWage>55040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Solar photovoltaic installers</Occupations>
+		<MedianWage>44890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers, construction trades</Occupations>
+		<MedianWage>32720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters</Occupations>
+		<MedianWage>35410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--carpenters</Occupations>
+		<MedianWage>33060</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--electricians</Occupations>
+		<MedianWage>32830</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--painters, paperhangers, plasterers, and stucco masons</Occupations>
+		<MedianWage>31340</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--pipelayers, plumbers, pipefitters, and steamfitters</Occupations>
+		<MedianWage>32100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--roofers</Occupations>
+		<MedianWage>32110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers, construction trades, all other</Occupations>
+		<MedianWage>31910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other construction and related workers</Occupations>
+		<MedianWage>46510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Construction and building inspectors</Occupations>
+		<MedianWage>60710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Elevator installers and repairers</Occupations>
+		<MedianWage>84990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fence erectors</Occupations>
+		<MedianWage>35800</MedianWage>
+	</record>
+	<record>
+		<Occupations>Hazardous materials removal workers</Occupations>
+		<MedianWage>43900</MedianWage>
+	</record>
+	<record>
+		<Occupations>Highway maintenance workers</Occupations>
+		<MedianWage>40730</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rail-track laying and maintenance equipment operators</Occupations>
+		<MedianWage>56100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Septic tank servicers and sewer pipe cleaners</Occupations>
+		<MedianWage>39870</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous construction and related workers</Occupations>
+		<MedianWage>39720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Extraction workers</Occupations>
+		<MedianWage>$44,940(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Derrick, rotary drill, and service unit operators, oil, gas, and mining</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Derrick operators, oil and gas</Occupations>
+		<MedianWage>46990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rotary drill operators, oil and gas</Occupations>
+		<MedianWage>54980</MedianWage>
+	</record>
+	<record>
+		<Occupations>Service unit operators, oil, gas, and mining</Occupations>
+		<MedianWage>46740</MedianWage>
+	</record>
+	<record>
+		<Occupations>Earth drillers, except oil and gas</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Explosives workers, ordnance handling experts, and blasters</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mining machine operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Continuous mining machine operators</Occupations>
+		<MedianWage>55280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mine cutting and channeling machine operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mining machine operators, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rock splitters, quarry</Occupations>
+		<MedianWage>36070</MedianWage>
+	</record>
+	<record>
+		<Occupations>Roof bolters, mining</Occupations>
+		<MedianWage>59090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Roustabouts, oil and gas</Occupations>
+		<MedianWage>38910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--extraction workers</Occupations>
+		<MedianWage>37120</MedianWage>
+	</record>
+	<record>
+		<Occupations>Extraction workers, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Installation, maintenance, and repair occupations</Occupations>
+		<MedianWage>46630</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of installation, maintenance, and repair workers</Occupations>
+		<MedianWage>67460</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of mechanics, installers, and repairers</Occupations>
+		<MedianWage>67460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical and electronic equipment mechanics, installers, and repairers</Occupations>
+		<MedianWage>52570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer, automated teller, and office machine repairers</Occupations>
+		<MedianWage>39530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Radio and telecommunications equipment installers and repairers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Radio, cellular, and tower equipment installers and repairers</Occupations>
+		<MedianWage>55380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Telecommunications equipment installers and repairers, except line installers</Occupations>
+		<MedianWage>57910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous electrical and electronic equipment mechanics, installers, and repairers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Avionics technicians</Occupations>
+		<MedianWage>65700</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electric motor, power tool, and related repairers</Occupations>
+		<MedianWage>44070</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical and electronics installers and repairers, transportation equipment</Occupations>
+		<MedianWage>62530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical and electronics repairers, commercial and industrial equipment</Occupations>
+		<MedianWage>59300</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical and electronics repairers, powerhouse, substation, and relay</Occupations>
+		<MedianWage>82780</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electronic equipment installers and repairers, motor vehicles</Occupations>
+		<MedianWage>37380</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electronic home entertainment equipment installers and repairers</Occupations>
+		<MedianWage>39510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Security and fire alarm systems installers</Occupations>
+		<MedianWage>48970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Vehicle and mobile equipment mechanics, installers, and repairers</Occupations>
+		<MedianWage>44590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Aircraft mechanics and service technicians</Occupations>
+		<MedianWage>64090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Automotive technicians and repairers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Automotive body and related repairers</Occupations>
+		<MedianWage>43580</MedianWage>
+	</record>
+	<record>
+		<Occupations>Automotive glass installers and repairers</Occupations>
+		<MedianWage>35790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Automotive service technicians and mechanics</Occupations>
+		<MedianWage>42090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bus and truck mechanics and diesel engine specialists</Occupations>
+		<MedianWage>48500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Heavy vehicle and mobile equipment service technicians and mechanics</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Farm equipment mechanics and service technicians</Occupations>
+		<MedianWage>42200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mobile heavy equipment mechanics, except engines</Occupations>
+		<MedianWage>53370</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rail car repairers</Occupations>
+		<MedianWage>56390</MedianWage>
+	</record>
+	<record>
+		<Occupations>Small engine mechanics</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Motorboat mechanics and service technicians</Occupations>
+		<MedianWage>41330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Motorcycle mechanics</Occupations>
+		<MedianWage>37600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Outdoor power equipment and other small engine mechanics</Occupations>
+		<MedianWage>36100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bicycle repairers</Occupations>
+		<MedianWage>30330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Recreational vehicle service technicians</Occupations>
+		<MedianWage>38570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tire repairers and changers</Occupations>
+		<MedianWage>28640</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other installation, maintenance, and repair occupations</Occupations>
+		<MedianWage>44100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Control and valve installers and repairers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mechanical door repairers</Occupations>
+		<MedianWage>41570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Control and valve installers and repairers, except mechanical door</Occupations>
+		<MedianWage>58100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Heating, air conditioning, and refrigeration mechanics and installers</Occupations>
+		<MedianWage>48730</MedianWage>
+	</record>
+	<record>
+		<Occupations>Home appliance repairers</Occupations>
+		<MedianWage>40260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Industrial machinery installation, repair, and maintenance workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Industrial machinery mechanics</Occupations>
+		<MedianWage>53590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Maintenance workers, machinery</Occupations>
+		<MedianWage>47520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Millwrights</Occupations>
+		<MedianWage>55560</MedianWage>
+	</record>
+	<record>
+		<Occupations>Refractory materials repairers, except brickmasons</Occupations>
+		<MedianWage>53990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Line installers and repairers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical power-line installers and repairers</Occupations>
+		<MedianWage>72520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Telecommunications line installers and repairers</Occupations>
+		<MedianWage>56750</MedianWage>
+	</record>
+	<record>
+		<Occupations>Precision instrument and equipment repairers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Camera and photographic equipment repairers</Occupations>
+		<MedianWage>38880</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical equipment repairers</Occupations>
+		<MedianWage>49280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Musical instrument repairers and tuners</Occupations>
+		<MedianWage>36650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Watch repairers</Occupations>
+		<MedianWage>42520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Precision instrument and equipment repairers, all other</Occupations>
+		<MedianWage>58720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Maintenance and repair workers, general</Occupations>
+		<MedianWage>39080</MedianWage>
+	</record>
+	<record>
+		<Occupations>Wind turbine service technicians</Occupations>
+		<MedianWage>52910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous installation, maintenance, and repair workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Coin, vending, and amusement machine servicers and repairers</Occupations>
+		<MedianWage>35420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Commercial divers</Occupations>
+		<MedianWage>49980</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fabric menders, except garment</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Locksmiths and safe repairers</Occupations>
+		<MedianWage>41940</MedianWage>
+	</record>
+	<record>
+		<Occupations>Manufactured building and mobile home installers</Occupations>
+		<MedianWage>33890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Riggers</Occupations>
+		<MedianWage>50860</MedianWage>
+	</record>
+	<record>
+		<Occupations>Signal and track switch repairers</Occupations>
+		<MedianWage>73890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--installation, maintenance, and repair workers</Occupations>
+		<MedianWage>30530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Installation, maintenance, and repair workers, all other</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Production occupations</Occupations>
+		<MedianWage>36000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of production workers</Occupations>
+		<MedianWage>61310</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-line supervisors of production and operating workers</Occupations>
+		<MedianWage>61310</MedianWage>
+	</record>
+	<record>
+		<Occupations>Assemblers and fabricators</Occupations>
+		<MedianWage>33710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Aircraft structure, surfaces, rigging, and systems assemblers</Occupations>
+		<MedianWage>54210</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical, electronics, and electromechanical assemblers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Coil winders, tapers, and finishers</Occupations>
+		<MedianWage>36520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers</Occupations>
+		<MedianWage>34810</MedianWage>
+	</record>
+	<record>
+		<Occupations>Engine and other machine assemblers</Occupations>
+		<MedianWage>45660</MedianWage>
+	</record>
+	<record>
+		<Occupations>Structural metal fabricators and fitters</Occupations>
+		<MedianWage>40390</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous assemblers and fabricators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fiberglass laminators and fabricators</Occupations>
+		<MedianWage>35480</MedianWage>
+	</record>
+	<record>
+		<Occupations>Timing device assemblers and adjusters</Occupations>
+		<MedianWage>35080</MedianWage>
+	</record>
+	<record>
+		<Occupations>Assemblers and fabricators, all other, including team assemblers</Occupations>
+		<MedianWage>32350</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food processing workers</Occupations>
+		<MedianWage>29320</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bakers</Occupations>
+		<MedianWage>27700</MedianWage>
+	</record>
+	<record>
+		<Occupations>Butchers and other meat, poultry, and fish processing workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Butchers and meat cutters</Occupations>
+		<MedianWage>32500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Meat, poultry, and fish cutters and trimmers</Occupations>
+		<MedianWage>28100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Slaughterers and meat packers</Occupations>
+		<MedianWage>29230</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous food processing workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food and tobacco roasting, baking, and drying machine operators and tenders</Occupations>
+		<MedianWage>31590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food batchmakers</Occupations>
+		<MedianWage>30790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food cooking machine operators and tenders</Occupations>
+		<MedianWage>31110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Food processing workers, all other</Occupations>
+		<MedianWage>27550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Metal workers and plastic workers</Occupations>
+		<MedianWage>$39,430(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer control programmers and operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer-controlled machine tool operators, metal and plastic</Occupations>
+		<MedianWage>41200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Computer numerically controlled machine tool programmers, metal and plastic</Occupations>
+		<MedianWage>56450</MedianWage>
+	</record>
+	<record>
+		<Occupations>Forming machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Extruding and drawing machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>36320</MedianWage>
+	</record>
+	<record>
+		<Occupations>Forging machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>39670</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rolling machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>40490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Machine tool cutting setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cutting, punching, and press machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>35610</MedianWage>
+	</record>
+	<record>
+		<Occupations>Drilling and boring machine tool setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>38910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>36100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Lathe and turning machine tool setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>40100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Milling and planing machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>43210</MedianWage>
+	</record>
+	<record>
+		<Occupations>Machinists</Occupations>
+		<MedianWage>44420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Metal furnace operators, tenders, pourers, and casters</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Metal-refining furnace operators and tenders</Occupations>
+		<MedianWage>42250</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pourers and casters, metal</Occupations>
+		<MedianWage>38620</MedianWage>
+	</record>
+	<record>
+		<Occupations>Model makers and patternmakers, metal and plastic</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Model makers, metal and plastic</Occupations>
+		<MedianWage>57020</MedianWage>
+	</record>
+	<record>
+		<Occupations>Patternmakers, metal and plastic</Occupations>
+		<MedianWage>46910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Molders and molding machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Foundry mold and coremakers</Occupations>
+		<MedianWage>35590</MedianWage>
+	</record>
+	<record>
+		<Occupations>Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>32130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Multiple machine tool setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>36330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tool and die makers</Occupations>
+		<MedianWage>53920</MedianWage>
+	</record>
+	<record>
+		<Occupations>Welding, soldering, and brazing workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Welders, cutters, solderers, and brazers</Occupations>
+		<MedianWage>42490</MedianWage>
+	</record>
+	<record>
+		<Occupations>Welding, soldering, and brazing machine setters, operators, and tenders</Occupations>
+		<MedianWage>38310</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous metal workers and plastic workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Heat treating equipment setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>38250</MedianWage>
+	</record>
+	<record>
+		<Occupations>Layout workers, metal and plastic</Occupations>
+		<MedianWage>49940</MedianWage>
+	</record>
+	<record>
+		<Occupations>Plating and coating machine setters, operators, and tenders, metal and plastic</Occupations>
+		<MedianWage>33500</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tool grinders, filers, and sharpeners</Occupations>
+		<MedianWage>39330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Metal workers and plastic workers, all other</Occupations>
+		<MedianWage>34830</MedianWage>
+	</record>
+	<record>
+		<Occupations>Printing workers</Occupations>
+		<MedianWage>36610</MedianWage>
+	</record>
+	<record>
+		<Occupations>Prepress technicians and workers</Occupations>
+		<MedianWage>40510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Printing press operators</Occupations>
+		<MedianWage>36910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Print binding and finishing workers</Occupations>
+		<MedianWage>33040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Textile, apparel, and furnishings workers</Occupations>
+		<MedianWage>26370</MedianWage>
+	</record>
+	<record>
+		<Occupations>Laundry and dry-cleaning workers</Occupations>
+		<MedianWage>24220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pressers, textile, garment, and related materials</Occupations>
+		<MedianWage>24190</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sewing machine operators</Occupations>
+		<MedianWage>26420</MedianWage>
+	</record>
+	<record>
+		<Occupations>Shoe and leather workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Shoe and leather workers and repairers</Occupations>
+		<MedianWage>29560</MedianWage>
+	</record>
+	<record>
+		<Occupations>Shoe machine operators and tenders</Occupations>
+		<MedianWage>30570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tailors, dressmakers, and sewers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sewers, hand</Occupations>
+		<MedianWage>29950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tailors, dressmakers, and custom sewers</Occupations>
+		<MedianWage>31520</MedianWage>
+	</record>
+	<record>
+		<Occupations>Textile machine setters, operators, and tenders</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Textile bleaching and dyeing machine operators and tenders</Occupations>
+		<MedianWage>29460</MedianWage>
+	</record>
+	<record>
+		<Occupations>Textile cutting machine setters, operators, and tenders</Occupations>
+		<MedianWage>28730</MedianWage>
+	</record>
+	<record>
+		<Occupations>Textile knitting and weaving machine setters, operators, and tenders</Occupations>
+		<MedianWage>29980</MedianWage>
+	</record>
+	<record>
+		<Occupations>Textile winding, twisting, and drawing out machine setters, operators, and tenders</Occupations>
+		<MedianWage>29790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous textile, apparel, and furnishings workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers</Occupations>
+		<MedianWage>36110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Fabric and apparel patternmakers</Occupations>
+		<MedianWage>45070</MedianWage>
+	</record>
+	<record>
+		<Occupations>Upholsterers</Occupations>
+		<MedianWage>35130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Textile, apparel, and furnishings workers, all other</Occupations>
+		<MedianWage>27970</MedianWage>
+	</record>
+	<record>
+		<Occupations>Woodworkers</Occupations>
+		<MedianWage>32760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cabinetmakers and bench carpenters</Occupations>
+		<MedianWage>35790</MedianWage>
+	</record>
+	<record>
+		<Occupations>Furniture finishers</Occupations>
+		<MedianWage>32480</MedianWage>
+	</record>
+	<record>
+		<Occupations>Model makers and patternmakers, wood</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Model makers, wood</Occupations>
+		<MedianWage>59260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Patternmakers, wood</Occupations>
+		<MedianWage>64880</MedianWage>
+	</record>
+	<record>
+		<Occupations>Woodworking machine setters, operators, and tenders</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sawing machine setters, operators, and tenders, wood</Occupations>
+		<MedianWage>30410</MedianWage>
+	</record>
+	<record>
+		<Occupations>Woodworking machine setters, operators, and tenders, except sawing</Occupations>
+		<MedianWage>30990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Woodworkers, all other</Occupations>
+		<MedianWage>33110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Plant and system operators</Occupations>
+		<MedianWage>60330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Power plant operators, distributors, and dispatchers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Nuclear power reactor operators</Occupations>
+		<MedianWage>100530</MedianWage>
+	</record>
+	<record>
+		<Occupations>Power distributors and dispatchers</Occupations>
+		<MedianWage>90700</MedianWage>
+	</record>
+	<record>
+		<Occupations>Power plant operators</Occupations>
+		<MedianWage>81990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Stationary engineers and boiler operators</Occupations>
+		<MedianWage>62150</MedianWage>
+	</record>
+	<record>
+		<Occupations>Water and wastewater treatment plant and system operators</Occupations>
+		<MedianWage>47760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous plant and system operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chemical plant and system operators</Occupations>
+		<MedianWage>62550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gas plant operators</Occupations>
+		<MedianWage>70710</MedianWage>
+	</record>
+	<record>
+		<Occupations>Petroleum pump system operators, refinery operators, and gaugers</Occupations>
+		<MedianWage>74180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Plant and system operators, all other</Occupations>
+		<MedianWage>58390</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other production occupations</Occupations>
+		<MedianWage>$35,580(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chemical processing machine setters, operators, and tenders</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Chemical equipment operators and tenders</Occupations>
+		<MedianWage>49130</MedianWage>
+	</record>
+	<record>
+		<Occupations>Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders</Occupations>
+		<MedianWage>41330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Crushing, grinding, polishing, mixing, and blending workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Crushing, grinding, and polishing machine setters, operators, and tenders</Occupations>
+		<MedianWage>37560</MedianWage>
+	</record>
+	<record>
+		<Occupations>Grinding and polishing workers, hand</Occupations>
+		<MedianWage>30600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mixing and blending machine setters, operators, and tenders</Occupations>
+		<MedianWage>37780</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cutting workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cutters and trimmers, hand</Occupations>
+		<MedianWage>30200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cutting and slicing machine setters, operators, and tenders</Occupations>
+		<MedianWage>35600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Extruding, forming, pressing, and compacting machine setters, operators, and tenders</Occupations>
+		<MedianWage>35480</MedianWage>
+	</record>
+	<record>
+		<Occupations>Furnace, kiln, oven, drier, and kettle operators and tenders</Occupations>
+		<MedianWage>40090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Inspectors, testers, sorters, samplers, and weighers</Occupations>
+		<MedianWage>39140</MedianWage>
+	</record>
+	<record>
+		<Occupations>Jewelers and precious stone and metal workers</Occupations>
+		<MedianWage>40870</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical, dental, and ophthalmic laboratory technicians</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dental laboratory technicians</Occupations>
+		<MedianWage>41340</MedianWage>
+	</record>
+	<record>
+		<Occupations>Medical appliance technicians</Occupations>
+		<MedianWage>40690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Ophthalmic laboratory technicians</Occupations>
+		<MedianWage>32620</MedianWage>
+	</record>
+	<record>
+		<Occupations>Packaging and filling machine operators and tenders</Occupations>
+		<MedianWage>30990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Painting workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Coating, painting, and spraying machine setters, operators, and tenders</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Painters, transportation equipment</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Painting, coating, and decorating workers</Occupations>
+		<MedianWage>32950</MedianWage>
+	</record>
+	<record>
+		<Occupations>Semiconductor processors</Occupations>
+		<MedianWage>38060</MedianWage>
+	</record>
+	<record>
+		<Occupations>Photographic process workers and processing machine operators</Occupations>
+		<MedianWage>32280</MedianWage>
+	</record>
+	<record>
+		<Occupations>Miscellaneous production workers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Adhesive bonding machine operators and tenders</Occupations>
+		<MedianWage>34340</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cleaning, washing, and metal pickling equipment operators and tenders</Occupations>
+		<MedianWage>31850</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cooling and freezing equipment operators and tenders</Occupations>
+		<MedianWage>35290</MedianWage>
+	</record>
+	<record>
+		<Occupations>Etchers and engravers</Occupations>
+		<MedianWage>30620</MedianWage>
+	</record>
+	<record>
+		<Occupations>Molders, shapers, and casters, except metal and plastic</Occupations>
+		<MedianWage>34030</MedianWage>
+	</record>
+	<record>
+		<Occupations>Paper goods machine setters, operators, and tenders</Occupations>
+		<MedianWage>39210</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tire builders</Occupations>
+		<MedianWage>46010</MedianWage>
+	</record>
+	<record>
+		<Occupations>Helpers--production workers</Occupations>
+		<MedianWage>29100</MedianWage>
+	</record>
+	<record>
+		<Occupations>Production workers, all other</Occupations>
+		<MedianWage>29800</MedianWage>
+	</record>
+	<record>
+		<Occupations>Transportation and material moving occupations</Occupations>
+		<MedianWage>$32,440(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Supervisors of transportation and material moving workers</Occupations>
+		<MedianWage>55040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Aircraft cargo handling supervisors</Occupations>
+		<MedianWage>53850</MedianWage>
+	</record>
+	<record>
+		<Occupations>First-Line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors</Occupations>
+		<MedianWage>55060</MedianWage>
+	</record>
+	<record>
+		<Occupations>Air transportation workers</Occupations>
+		<MedianWage>75760</MedianWage>
+	</record>
+	<record>
+		<Occupations>Aircraft pilots and flight engineers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Airline pilots, copilots, and flight engineers</Occupations>
+		<MedianWage>147220</MedianWage>
+	</record>
+	<record>
+		<Occupations>Commercial pilots</Occupations>
+		<MedianWage>86080</MedianWage>
+	</record>
+	<record>
+		<Occupations>Air traffic controllers and airfield operations specialists</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Air traffic controllers</Occupations>
+		<MedianWage>122990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Airfield operations specialists</Occupations>
+		<MedianWage>52650</MedianWage>
+	</record>
+	<record>
+		<Occupations>Flight attendants</Occupations>
+		<MedianWage>56640</MedianWage>
+	</record>
+	<record>
+		<Occupations>Motor vehicle operators</Occupations>
+		<MedianWage>38550</MedianWage>
+	</record>
+	<record>
+		<Occupations>Ambulance drivers and attendants, except emergency medical technicians</Occupations>
+		<MedianWage>25890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bus drivers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bus drivers, transit and intercity</Occupations>
+		<MedianWage>43030</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bus drivers, school or special client</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Driver/sales workers and truck drivers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Driver/sales workers</Occupations>
+		<MedianWage>25860</MedianWage>
+	</record>
+	<record>
+		<Occupations>Heavy and tractor-trailer truck drivers</Occupations>
+		<MedianWage>45260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Light truck or delivery services drivers</Occupations>
+		<MedianWage>34730</MedianWage>
+	</record>
+	<record>
+		<Occupations>Taxi drivers and chauffeurs</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Motor vehicle operators, all other</Occupations>
+		<MedianWage>32910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rail transportation workers</Occupations>
+		<MedianWage>64890</MedianWage>
+	</record>
+	<record>
+		<Occupations>Locomotive engineers and operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Locomotive engineers</Occupations>
+		<MedianWage>67090</MedianWage>
+	</record>
+	<record>
+		<Occupations>Locomotive firers</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rail yard engineers, dinkey operators, and hostlers</Occupations>
+		<MedianWage>49330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Railroad brake, signal, and switch operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Railroad conductors and yardmasters</Occupations>
+		<MedianWage>65990</MedianWage>
+	</record>
+	<record>
+		<Occupations>Subway and streetcar operators</Occupations>
+		<MedianWage>67880</MedianWage>
+	</record>
+	<record>
+		<Occupations>Rail transportation workers, all other</Occupations>
+		<MedianWage>51600</MedianWage>
+	</record>
+	<record>
+		<Occupations>Water transportation workers</Occupations>
+		<MedianWage>57330</MedianWage>
+	</record>
+	<record>
+		<Occupations>Sailors and marine oilers</Occupations>
+		<MedianWage>43480</MedianWage>
+	</record>
+	<record>
+		<Occupations>Ship and boat captains and operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Captains, mates, and pilots of water vessels</Occupations>
+		<MedianWage>72340</MedianWage>
+	</record>
+	<record>
+		<Occupations>Motorboat operators</Occupations>
+		<MedianWage>48260</MedianWage>
+	</record>
+	<record>
+		<Occupations>Ship engineers</Occupations>
+		<MedianWage>74610</MedianWage>
+	</record>
+	<record>
+		<Occupations>Other transportation workers</Occupations>
+		<MedianWage>26770</MedianWage>
+	</record>
+	<record>
+		<Occupations>Bridge and lock tenders</Occupations>
+		<MedianWage>50110</MedianWage>
+	</record>
+	<record>
+		<Occupations>Parking lot attendants</Occupations>
+		<MedianWage>25140</MedianWage>
+	</record>
+	<record>
+		<Occupations>Automotive and watercraft service attendants</Occupations>
+		<MedianWage>25200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Traffic technicians</Occupations>
+		<MedianWage>47480</MedianWage>
+	</record>
+	<record>
+		<Occupations>Transportation inspectors</Occupations>
+		<MedianWage>75820</MedianWage>
+	</record>
+	<record>
+		<Occupations>Transportation attendants, except flight attendants</Occupations>
+		<MedianWage>26570</MedianWage>
+	</record>
+	<record>
+		<Occupations>Transportation workers, all other</Occupations>
+		<MedianWage>37000</MedianWage>
+	</record>
+	<record>
+		<Occupations>Material moving workers</Occupations>
+		<MedianWage>$29,060(2)</MedianWage>
+	</record>
+	<record>
+		<Occupations>Conveyor operators and tenders</Occupations>
+		<MedianWage>34660</MedianWage>
+	</record>
+	<record>
+		<Occupations>Crane and tower operators</Occupations>
+		<MedianWage>56690</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dredge, excavating, and loading machine operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Dredge operators</Occupations>
+		<MedianWage>47040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Excavating and loading machine and dragline operators</Occupations>
+		<MedianWage>44800</MedianWage>
+	</record>
+	<record>
+		<Occupations>Loading machine operators, underground mining</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Hoist and winch operators</Occupations>
+		<MedianWage>59720</MedianWage>
+	</record>
+	<record>
+		<Occupations>Industrial truck and tractor operators</Occupations>
+		<MedianWage>36200</MedianWage>
+	</record>
+	<record>
+		<Occupations>Laborers and material movers, hand</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Cleaners of vehicles and equipment</Occupations>
+		<MedianWage>25800</MedianWage>
+	</record>
+	<record>
+		<Occupations>Laborers and freight, stock, and material movers, hand</Occupations>
+		<MedianWage>29510</MedianWage>
+	</record>
+	<record>
+		<Occupations>Machine feeders and offbearers</Occupations>
+		<MedianWage>31180</MedianWage>
+	</record>
+	<record>
+		<Occupations>Packers and packagers, hand</Occupations>
+		<MedianWage>25910</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pumping station operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Gas compressor and gas pumping station operators</Occupations>
+		<MedianWage>66160</MedianWage>
+	</record>
+	<record>
+		<Occupations>Pump operators, except wellhead pumpers</Occupations>
+		<MedianWage>45040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Wellhead pumpers</Occupations>
+		<MedianWage>55040</MedianWage>
+	</record>
+	<record>
+		<Occupations>Refuse and recyclable material collectors</Occupations>
+		<MedianWage>37840</MedianWage>
+	</record>
+	<record>
+		<Occupations>Mine shuttle car operators</Occupations>
+		<MedianWage>—</MedianWage>
+	</record>
+	<record>
+		<Occupations>Tank car, truck, and ship loaders</Occupations>
+		<MedianWage>42360</MedianWage>
+	</record>
+	<record>
+		<Occupations>Material moving workers, all other</Occupations>
+		<MedianWage>31770</MedianWage>
+	</record>
+	<record>
+		<Occupations>Footnotes:</Occupations>
+	</record>
+	<record>
+		<Occupations>(1) Data are from the Occupational Employment Statistics program, U.S. Bureau of Labor Statistics. Wage data cover non-farm wage and salary workers and do not cover the self-employed, owners and partners in unincorporated firms, or household workers.</Occupations>
+	</record>
+	<record>
+		<Occupations>(2) Wage included represents a comparable, but not exact, occupation due to coding changes in the May 2019 OES data. For more information, see Implementing the 2018 SOC in the OES program.</Occupations>
+	</record>
+	<record>
+		<Occupations>Note: Data is unavailable for values denoted with a "—".</Occupations>
+	</record>
+	<record>
+		<Occupations>Source: Employment Projections program, U.S. Bureau of Labor Statistics</Occupations>
+	</record>
+</data-set>

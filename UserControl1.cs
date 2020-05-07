@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 using System.Runtime.CompilerServices;
 using System.Data.SqlClient;
+using System.Xml;
 
 namespace retireCalc
 {
@@ -133,8 +134,11 @@ namespace retireCalc
                 tInterval = graphRetirement.TotalChart(countInvest, tInterval, (yearDifference - i));
             }
             chartGraphic.ChartAreas[0].AxisY.Maximum = count;
-            
 
+            //creates dataset for display;
+            DataSet dataSet = new DataSet();
+            dataSet.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobOutlook2.xml");
+            careerOptions.DataSource = dataSet.Tables[0];
         }
         private void Reset_Click(object sender, EventArgs e)
         {

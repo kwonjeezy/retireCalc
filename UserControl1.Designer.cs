@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.age = new System.Windows.Forms.TextBox();
             this.ageLabel = new System.Windows.Forms.Label();
             this.retireAge = new System.Windows.Forms.TextBox();
@@ -47,11 +47,11 @@
             this.TotalRetire = new System.Windows.Forms.Label();
             this.chartGraphic = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.Reset = new System.Windows.Forms.Button();
-            this.careerOptions = new System.Windows.Forms.DataGridView();
             this.livingOption = new System.Windows.Forms.DataGridView();
+            this.careerOptions = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.chartGraphic)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.careerOptions)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.livingOption)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.careerOptions)).BeginInit();
             this.SuspendLayout();
             // 
             // age
@@ -175,26 +175,26 @@
             // 
             // chartGraphic
             // 
-            chartArea1.Name = "ChartArea1";
-            this.chartGraphic.ChartAreas.Add(chartArea1);
-            legend1.Name = "legend1";
-            legend1.Title = "legend";
-            this.chartGraphic.Legends.Add(legend1);
+            chartArea3.Name = "ChartArea1";
+            this.chartGraphic.ChartAreas.Add(chartArea3);
+            legend3.Name = "legend1";
+            legend3.Title = "legend";
+            this.chartGraphic.Legends.Add(legend3);
             this.chartGraphic.Location = new System.Drawing.Point(4, 4);
             this.chartGraphic.Margin = new System.Windows.Forms.Padding(4);
             this.chartGraphic.Name = "chartGraphic";
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series1.Legend = "legend1";
-            series1.LegendText = "Retirement over Time";
-            series1.Name = "Retirement";
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series2.Legend = "legend1";
-            series2.LegendText = "Investment over Time";
-            series2.Name = "Investment";
-            this.chartGraphic.Series.Add(series1);
-            this.chartGraphic.Series.Add(series2);
+            series5.ChartArea = "ChartArea1";
+            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series5.Legend = "legend1";
+            series5.LegendText = "Retirement over Time";
+            series5.Name = "Retirement";
+            series6.ChartArea = "ChartArea1";
+            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series6.Legend = "legend1";
+            series6.LegendText = "Investment over Time";
+            series6.Name = "Investment";
+            this.chartGraphic.Series.Add(series5);
+            this.chartGraphic.Series.Add(series6);
             this.chartGraphic.Size = new System.Drawing.Size(867, 298);
             this.chartGraphic.TabIndex = 13;
             // 
@@ -209,25 +209,25 @@
             this.Reset.UseVisualStyleBackColor = true;
             this.Reset.Click += new System.EventHandler(this.Reset_Click);
             // 
-            // careerOptions
-            // 
-            this.careerOptions.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.careerOptions.Location = new System.Drawing.Point(332, 321);
-            this.careerOptions.Name = "careerOptions";
-            this.careerOptions.RowHeadersWidth = 51;
-            this.careerOptions.RowTemplate.Height = 24;
-            this.careerOptions.Size = new System.Drawing.Size(246, 162);
-            this.careerOptions.TabIndex = 15;
-            // 
             // livingOption
             // 
             this.livingOption.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.livingOption.Location = new System.Drawing.Point(631, 321);
+            this.livingOption.Location = new System.Drawing.Point(452, 321);
             this.livingOption.Name = "livingOption";
             this.livingOption.RowHeadersWidth = 51;
             this.livingOption.RowTemplate.Height = 24;
-            this.livingOption.Size = new System.Drawing.Size(240, 162);
+            this.livingOption.Size = new System.Drawing.Size(420, 162);
             this.livingOption.TabIndex = 16;
+            // 
+            // careerOptions
+            // 
+            this.careerOptions.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.careerOptions.Location = new System.Drawing.Point(4, 321);
+            this.careerOptions.Name = "careerOptions";
+            this.careerOptions.RowHeadersWidth = 51;
+            this.careerOptions.RowTemplate.Height = 24;
+            this.careerOptions.Size = new System.Drawing.Size(397, 162);
+            this.careerOptions.TabIndex = 15;
             // 
             // UserControl1
             // 
@@ -253,8 +253,8 @@
             this.Name = "UserControl1";
             this.Size = new System.Drawing.Size(1165, 486);
             ((System.ComponentModel.ISupportInitialize)(this.chartGraphic)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.careerOptions)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.livingOption)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.careerOptions)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -277,7 +277,7 @@
         private System.Windows.Forms.TextBox amountSaved;
         private System.Windows.Forms.DataVisualization.Charting.Chart chartGraphic;
         private System.Windows.Forms.Button Reset;
-        private System.Windows.Forms.DataGridView careerOptions;
         private System.Windows.Forms.DataGridView livingOption;
+        private System.Windows.Forms.DataGridView careerOptions;
     }
 }
