@@ -1,0 +1,2843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<State>Abilene, TX</State>
+		<Price>$875 </Price>
+	</record>
+	<record>
+		<State>Acworth, GA</State>
+		<Price>1081</Price>
+	</record>
+	<record>
+		<State>Adelanto, CA</State>
+		<Price>1280</Price>
+	</record>
+	<record>
+		<State>Aiken, SC</State>
+		<Price>853</Price>
+	</record>
+	<record>
+		<State>Alabama</State>
+		<Price>832</Price>
+	</record>
+	<record>
+		<State>Alaska</State>
+		<Price>1199</Price>
+	</record>
+	<record>
+		<State>Albany, NY</State>
+		<Price>1097</Price>
+	</record>
+	<record>
+		<State>Albany, OR</State>
+		<Price>1025</Price>
+	</record>
+	<record>
+		<State>Albuquerque, NM</State>
+		<Price>888</Price>
+	</record>
+	<record>
+		<State>Alexandria, VA</State>
+		<Price>1900</Price>
+	</record>
+	<record>
+		<State>Allen, TX</State>
+		<Price>1567</Price>
+	</record>
+	<record>
+		<State>Alpharetta, GA</State>
+		<Price>1459</Price>
+	</record>
+	<record>
+		<State>Altamonte Springs, FL</State>
+		<Price>1257</Price>
+	</record>
+	<record>
+		<State>Amarillo, TX</State>
+		<Price>841</Price>
+	</record>
+	<record>
+		<State>Amelia, OH</State>
+		<Price>832</Price>
+	</record>
+	<record>
+		<State>Ames, IA</State>
+		<Price>988</Price>
+	</record>
+	<record>
+		<State>Anaheim, CA</State>
+		<Price>2157</Price>
+	</record>
+	<record>
+		<State>Anchorage, AK</State>
+		<Price>1098</Price>
+	</record>
+	<record>
+		<State>Anderson, IN</State>
+		<Price>898</Price>
+	</record>
+	<record>
+		<State>Ann Arbor, MI</State>
+		<Price>1307</Price>
+	</record>
+	<record>
+		<State>Anniston, AL</State>
+		<Price>437</Price>
+	</record>
+	<record>
+		<State>Anoka, MN</State>
+		<Price>1221</Price>
+	</record>
+	<record>
+		<State>Apache Junction, AZ</State>
+		<Price>729</Price>
+	</record>
+	<record>
+		<State>Apopka, FL</State>
+		<Price>1154</Price>
+	</record>
+	<record>
+		<State>Apple Valley, CA</State>
+		<Price>1156</Price>
+	</record>
+	<record>
+		<State>Arizona</State>
+		<Price>1103</Price>
+	</record>
+	<record>
+		<State>Arkansas</State>
+		<Price>730</Price>
+	</record>
+	<record>
+		<State>Arlington, TX</State>
+		<Price>1266</Price>
+	</record>
+	<record>
+		<State>Arlington, VA</State>
+		<Price>2141</Price>
+	</record>
+	<record>
+		<State>Arvada, CO</State>
+		<Price>1577</Price>
+	</record>
+	<record>
+		<State>Ashland, OR</State>
+		<Price>925</Price>
+	</record>
+	<record>
+		<State>Athens, GA</State>
+		<Price>952</Price>
+	</record>
+	<record>
+		<State>Atlanta, GA</State>
+		<Price>1195</Price>
+	</record>
+	<record>
+		<State>Auburn Hills, MI</State>
+		<Price>1214</Price>
+	</record>
+	<record>
+		<State>Auburn, WA</State>
+		<Price>1711</Price>
+	</record>
+	<record>
+		<State>Audubon, NJ</State>
+		<Price>1061</Price>
+	</record>
+	<record>
+		<State>Augusta, GA</State>
+		<Price>804</Price>
+	</record>
+	<record>
+		<State>Aurora, CO</State>
+		<Price>1584</Price>
+	</record>
+	<record>
+		<State>Aurora, IL</State>
+		<Price>1332</Price>
+	</record>
+	<record>
+		<State>Austell, GA</State>
+		<Price>1103</Price>
+	</record>
+	<record>
+		<State>Austin, TX</State>
+		<Price>1470</Price>
+	</record>
+	<record>
+		<State>Avondale, AZ</State>
+		<Price>1290</Price>
+	</record>
+	<record>
+		<State>Bakersfield, CA</State>
+		<Price>957</Price>
+	</record>
+	<record>
+		<State>Balch Springs, TX</State>
+		<Price>1041</Price>
+	</record>
+	<record>
+		<State>Ballwin, MO</State>
+		<Price>1373</Price>
+	</record>
+	<record>
+		<State>Baltimore, MD</State>
+		<Price>1193</Price>
+	</record>
+	<record>
+		<State>Baton Rouge, LA</State>
+		<Price>898</Price>
+	</record>
+	<record>
+		<State>Battle Creek, MI</State>
+		<Price>871</Price>
+	</record>
+	<record>
+		<State>Bay City, MI</State>
+		<Price>736</Price>
+	</record>
+	<record>
+		<State>Bay Shore, NY</State>
+		<Price>1787</Price>
+	</record>
+	<record>
+		<State>Baytown, TX</State>
+		<Price>1069</Price>
+	</record>
+	<record>
+		<State>Beaverton, OR</State>
+		<Price>1839</Price>
+	</record>
+	<record>
+		<State>Bedford, OH</State>
+		<Price>769</Price>
+	</record>
+	<record>
+		<State>Belleville, IL</State>
+		<Price>958</Price>
+	</record>
+	<record>
+		<State>Belleville, MI</State>
+		<Price>1129</Price>
+	</record>
+	<record>
+		<State>Bellevue, WA</State>
+		<Price>2435</Price>
+	</record>
+	<record>
+		<State>Bellflower, CA</State>
+		<Price>1737</Price>
+	</record>
+	<record>
+		<State>Belmont, CA</State>
+		<Price>3629</Price>
+	</record>
+	<record>
+		<State>Belton, MO</State>
+		<Price>1069</Price>
+	</record>
+	<record>
+		<State>Bend, OR</State>
+		<Price>1010</Price>
+	</record>
+	<record>
+		<State>Benicia, CA</State>
+		<Price>1657</Price>
+	</record>
+	<record>
+		<State>Bentonville, AR</State>
+		<Price>855</Price>
+	</record>
+	<record>
+		<State>Bethany, OK</State>
+		<Price>874</Price>
+	</record>
+	<record>
+		<State>Biloxi, MS</State>
+		<Price>812</Price>
+	</record>
+	<record>
+		<State>Binghamton, NY</State>
+		<Price>925</Price>
+	</record>
+	<record>
+		<State>Birmingham, AL</State>
+		<Price>971</Price>
+	</record>
+	<record>
+		<State>Bismarck, ND</State>
+		<Price>786</Price>
+	</record>
+	<record>
+		<State>Bloomington, IL</State>
+		<Price>791</Price>
+	</record>
+	<record>
+		<State>Bloomington, IN</State>
+		<Price>956</Price>
+	</record>
+	<record>
+		<State>Blue Springs, MO</State>
+		<Price>1115</Price>
+	</record>
+	<record>
+		<State>Bluffton, SC</State>
+		<Price>1343</Price>
+	</record>
+	<record>
+		<State>Boca Raton, FL</State>
+		<Price>1902</Price>
+	</record>
+	<record>
+		<State>Boise, ID</State>
+		<Price>953</Price>
+	</record>
+	<record>
+		<State>Bolingbrook, IL</State>
+		<Price>1544</Price>
+	</record>
+	<record>
+		<State>Bossier City, LA</State>
+		<Price>907</Price>
+	</record>
+	<record>
+		<State>Boston, MA</State>
+		<Price>2126</Price>
+	</record>
+	<record>
+		<State>Bowie, MD</State>
+		<Price>2480</Price>
+	</record>
+	<record>
+		<State>Bowling Green, KY</State>
+		<Price>721</Price>
+	</record>
+	<record>
+		<State>Bradenton, FL</State>
+		<Price>1222</Price>
+	</record>
+	<record>
+		<State>Brandon, FL</State>
+		<Price>1279</Price>
+	</record>
+	<record>
+		<State>Bridgeton, MO</State>
+		<Price>873</Price>
+	</record>
+	<record>
+		<State>Brighton, MI</State>
+		<Price>1208</Price>
+	</record>
+	<record>
+		<State>Bristol, CT</State>
+		<Price>1069</Price>
+	</record>
+	<record>
+		<State>Broomfield, CO</State>
+		<Price>1745</Price>
+	</record>
+	<record>
+		<State>Brownsburg, IN</State>
+		<Price>957</Price>
+	</record>
+	<record>
+		<State>Brownsville, TX</State>
+		<Price>696</Price>
+	</record>
+	<record>
+		<State>Bryan, TX</State>
+		<Price>849</Price>
+	</record>
+	<record>
+		<State>Buckeye, AZ</State>
+		<Price>1223</Price>
+	</record>
+	<record>
+		<State>Buffalo Grove, IL</State>
+		<Price>1592</Price>
+	</record>
+	<record>
+		<State>Buffalo, NY</State>
+		<Price>879</Price>
+	</record>
+	<record>
+		<State>Burlington, NC</State>
+		<Price>961</Price>
+	</record>
+	<record>
+		<State>Burnsville, MN</State>
+		<Price>1442</Price>
+	</record>
+	<record>
+		<State>Burton, MI</State>
+		<Price>840</Price>
+	</record>
+	<record>
+		<State>Caldwell, ID</State>
+		<Price>783</Price>
+	</record>
+	<record>
+		<State>California</State>
+		<Price>1856</Price>
+	</record>
+	<record>
+		<State>California City, CA</State>
+		<Price>1031</Price>
+	</record>
+	<record>
+		<State>Calumet City, IL</State>
+		<Price>1029</Price>
+	</record>
+	<record>
+		<State>Camarillo, CA</State>
+		<Price>2437</Price>
+	</record>
+	<record>
+		<State>Cambridge, MA</State>
+		<Price>2318</Price>
+	</record>
+	<record>
+		<State>Camden, NJ</State>
+		<Price>1128</Price>
+	</record>
+	<record>
+		<State>Campbell, CA</State>
+		<Price>2446</Price>
+	</record>
+	<record>
+		<State>Canton, GA</State>
+		<Price>1195</Price>
+	</record>
+	<record>
+		<State>Cape Coral, FL</State>
+		<Price>1129</Price>
+	</record>
+	<record>
+		<State>Carbondale, IL</State>
+		<Price>770</Price>
+	</record>
+	<record>
+		<State>Carlsbad, CA</State>
+		<Price>2557</Price>
+	</record>
+	<record>
+		<State>Carol Stream, IL</State>
+		<Price>1389</Price>
+	</record>
+	<record>
+		<State>Carrollton, GA</State>
+		<Price>852</Price>
+	</record>
+	<record>
+		<State>Carrollton, TX</State>
+		<Price>1393</Price>
+	</record>
+	<record>
+		<State>Carson City, NV</State>
+		<Price>995</Price>
+	</record>
+	<record>
+		<State>Cary, NC</State>
+		<Price>1299</Price>
+	</record>
+	<record>
+		<State>Casa Grande, AZ</State>
+		<Price>998</Price>
+	</record>
+	<record>
+		<State>Casselberry, FL</State>
+		<Price>1312</Price>
+	</record>
+	<record>
+		<State>Cassopolis, MI</State>
+		<Price>761</Price>
+	</record>
+	<record>
+		<State>Castle Rock, CO</State>
+		<Price>1709</Price>
+	</record>
+	<record>
+		<State>Catonsville, MD</State>
+		<Price>1466</Price>
+	</record>
+	<record>
+		<State>Cedar Falls, IA</State>
+		<Price>813</Price>
+	</record>
+	<record>
+		<State>Cedar Hill, TX</State>
+		<Price>1559</Price>
+	</record>
+	<record>
+		<State>Cedar Park, TX</State>
+		<Price>1727</Price>
+	</record>
+	<record>
+		<State>Cedar Rapids, IA</State>
+		<Price>900</Price>
+	</record>
+	<record>
+		<State>Centreville, VA</State>
+		<Price>1964</Price>
+	</record>
+	<record>
+		<State>Chandler, AZ</State>
+		<Price>1454</Price>
+	</record>
+	<record>
+		<State>Charlotte, NC</State>
+		<Price>1153</Price>
+	</record>
+	<record>
+		<State>Charlottesville, VA</State>
+		<Price>1300</Price>
+	</record>
+	<record>
+		<State>Chattanooga, TN</State>
+		<Price>932</Price>
+	</record>
+	<record>
+		<State>Chesapeake, VA</State>
+		<Price>1210</Price>
+	</record>
+	<record>
+		<State>Cheyenne, WY</State>
+		<Price>854</Price>
+	</record>
+	<record>
+		<State>Chicago Heights, IL</State>
+		<Price>1082</Price>
+	</record>
+	<record>
+		<State>Chicago, IL</State>
+		<Price>1291</Price>
+	</record>
+	<record>
+		<State>Chico, CA</State>
+		<Price>1114</Price>
+	</record>
+	<record>
+		<State>Chino Hills, CA</State>
+		<Price>2041</Price>
+	</record>
+	<record>
+		<State>Chino, CA</State>
+		<Price>1599</Price>
+	</record>
+	<record>
+		<State>Chula Vista, CA</State>
+		<Price>2147</Price>
+	</record>
+	<record>
+		<State>Cincinnati, OH</State>
+		<Price>858</Price>
+	</record>
+	<record>
+		<State>Citrus Heights, CA</State>
+		<Price>1452</Price>
+	</record>
+	<record>
+		<State>Clarkston, GA</State>
+		<Price>1054</Price>
+	</record>
+	<record>
+		<State>Clarksville, TN</State>
+		<Price>802</Price>
+	</record>
+	<record>
+		<State>Clearwater, FL</State>
+		<Price>1231</Price>
+	</record>
+	<record>
+		<State>Clinton, MI</State>
+		<Price>901</Price>
+	</record>
+	<record>
+		<State>Clovis, CA</State>
+		<Price>1273</Price>
+	</record>
+	<record>
+		<State>Cockeysville, MD</State>
+		<Price>1430</Price>
+	</record>
+	<record>
+		<State>College Station, TX</State>
+		<Price>968</Price>
+	</record>
+	<record>
+		<State>Colorado</State>
+		<Price>1325</Price>
+	</record>
+	<record>
+		<State>Colorado Springs, CO</State>
+		<Price>1277</Price>
+	</record>
+	<record>
+		<State>Columbia, MD</State>
+		<Price>1973</Price>
+	</record>
+	<record>
+		<State>Columbia, MO</State>
+		<Price>727</Price>
+	</record>
+	<record>
+		<State>Columbia, SC</State>
+		<Price>988</Price>
+	</record>
+	<record>
+		<State>Columbus, GA</State>
+		<Price>778</Price>
+	</record>
+	<record>
+		<State>Columbus, IN</State>
+		<Price>962</Price>
+	</record>
+	<record>
+		<State>Columbus, OH</State>
+		<Price>973</Price>
+	</record>
+	<record>
+		<State>Connecticut</State>
+		<Price>1358</Price>
+	</record>
+	<record>
+		<State>Conroe, TX</State>
+		<Price>1099</Price>
+	</record>
+	<record>
+		<State>Copperas Cove, TX</State>
+		<Price>809</Price>
+	</record>
+	<record>
+		<State>Coralville, IA</State>
+		<Price>1020</Price>
+	</record>
+	<record>
+		<State>Coram, NY</State>
+		<Price>2611</Price>
+	</record>
+	<record>
+		<State>Corona, CA</State>
+		<Price>2269</Price>
+	</record>
+	<record>
+		<State>Coronado, CA</State>
+		<Price>3843</Price>
+	</record>
+	<record>
+		<State>Corpus Christi, TX</State>
+		<Price>1083</Price>
+	</record>
+	<record>
+		<State>Corvallis, OR</State>
+		<Price>1045</Price>
+	</record>
+	<record>
+		<State>Costa Mesa, CA</State>
+		<Price>2372</Price>
+	</record>
+	<record>
+		<State>Covington, GA</State>
+		<Price>1091</Price>
+	</record>
+	<record>
+		<State>Cranston, RI</State>
+		<Price>1227</Price>
+	</record>
+	<record>
+		<State>Crystal Lake, IL</State>
+		<Price>1427</Price>
+	</record>
+	<record>
+		<State>Dallas, GA</State>
+		<Price>1144</Price>
+	</record>
+	<record>
+		<State>Dallas, TX</State>
+		<Price>1138</Price>
+	</record>
+	<record>
+		<State>Danbury, CT</State>
+		<Price>1519</Price>
+	</record>
+	<record>
+		<State>Danvers, MA</State>
+		<Price>2247</Price>
+	</record>
+	<record>
+		<State>Daphne, AL</State>
+		<Price>1451</Price>
+	</record>
+	<record>
+		<State>Davenport, IA</State>
+		<Price>794</Price>
+	</record>
+	<record>
+		<State>Davison, MI</State>
+		<Price>760</Price>
+	</record>
+	<record>
+		<State>Dayton, OH</State>
+		<Price>868</Price>
+	</record>
+	<record>
+		<State>Dearborn Heights, MI</State>
+		<Price>1158</Price>
+	</record>
+	<record>
+		<State>Dearborn, MI</State>
+		<Price>1384</Price>
+	</record>
+	<record>
+		<State>Decatur, AL</State>
+		<Price>735</Price>
+	</record>
+	<record>
+		<State>Decatur, GA</State>
+		<Price>1183</Price>
+	</record>
+	<record>
+		<State>Deerfield Beach, FL</State>
+		<Price>1527</Price>
+	</record>
+	<record>
+		<State>Delaware</State>
+		<Price>1254</Price>
+	</record>
+	<record>
+		<State>Delray Beach, FL</State>
+		<Price>1533</Price>
+	</record>
+	<record>
+		<State>Deltona, FL</State>
+		<Price>1096</Price>
+	</record>
+	<record>
+		<State>Denton, TX</State>
+		<Price>1088</Price>
+	</record>
+	<record>
+		<State>Denver, CO</State>
+		<Price>1356</Price>
+	</record>
+	<record>
+		<State>Des Moines, IA</State>
+		<Price>807</Price>
+	</record>
+	<record>
+		<State>Des Plaines, IL</State>
+		<Price>1171</Price>
+	</record>
+	<record>
+		<State>DeSoto, TX</State>
+		<Price>1226</Price>
+	</record>
+	<record>
+		<State>Detroit, MI</State>
+		<Price>899</Price>
+	</record>
+	<record>
+		<State>District of Columbia</State>
+		<Price>1742</Price>
+	</record>
+	<record>
+		<State>Douglasville, GA</State>
+		<Price>1228</Price>
+	</record>
+	<record>
+		<State>Downey, CA</State>
+		<Price>2017</Price>
+	</record>
+	<record>
+		<State>Drexel Hill, PA</State>
+		<Price>1097</Price>
+	</record>
+	<record>
+		<State>Duarte, CA</State>
+		<Price>1896</Price>
+	</record>
+	<record>
+		<State>Duluth, GA</State>
+		<Price>1490</Price>
+	</record>
+	<record>
+		<State>Duluth, MN</State>
+		<Price>872</Price>
+	</record>
+	<record>
+		<State>Duncanville, TX</State>
+		<Price>1246</Price>
+	</record>
+	<record>
+		<State>Dundalk, MD</State>
+		<Price>1165</Price>
+	</record>
+	<record>
+		<State>Eaton Rapids, MI</State>
+		<Price>917</Price>
+	</record>
+	<record>
+		<State>Eden Prairie, MN</State>
+		<Price>1832</Price>
+	</record>
+	<record>
+		<State>Edinburg, TX</State>
+		<Price>762</Price>
+	</record>
+	<record>
+		<State>Edmond, OK</State>
+		<Price>1033</Price>
+	</record>
+	<record>
+		<State>El Mirage, AZ</State>
+		<Price>972</Price>
+	</record>
+	<record>
+		<State>El Paso, TX</State>
+		<Price>851</Price>
+	</record>
+	<record>
+		<State>Elgin, IL</State>
+		<Price>1178</Price>
+	</record>
+	<record>
+		<State>Elgin, SC</State>
+		<Price>1132</Price>
+	</record>
+	<record>
+		<State>Elizabeth, NJ</State>
+		<Price>1385</Price>
+	</record>
+	<record>
+		<State>Elkton, MD</State>
+		<Price>1277</Price>
+	</record>
+	<record>
+		<State>Englewood, FL</State>
+		<Price>726</Price>
+	</record>
+	<record>
+		<State>Erie, PA</State>
+		<Price>726</Price>
+	</record>
+	<record>
+		<State>Escondido, CA</State>
+		<Price>1879</Price>
+	</record>
+	<record>
+		<State>Essex, MD</State>
+		<Price>1110</Price>
+	</record>
+	<record>
+		<State>Euclid, OH</State>
+		<Price>816</Price>
+	</record>
+	<record>
+		<State>Eugene, OR</State>
+		<Price>1095</Price>
+	</record>
+	<record>
+		<State>Euless, TX</State>
+		<Price>1267</Price>
+	</record>
+	<record>
+		<State>Evanston, IL</State>
+		<Price>1567</Price>
+	</record>
+	<record>
+		<State>Evansville, IN</State>
+		<Price>877</Price>
+	</record>
+	<record>
+		<State>Everett, WA</State>
+		<Price>1728</Price>
+	</record>
+	<record>
+		<State>Fairbanks, AK</State>
+		<Price>1125</Price>
+	</record>
+	<record>
+		<State>Fairborn, OH</State>
+		<Price>813</Price>
+	</record>
+	<record>
+		<State>Fairfield, CA</State>
+		<Price>1673</Price>
+	</record>
+	<record>
+		<State>Fairfield, OH</State>
+		<Price>1110</Price>
+	</record>
+	<record>
+		<State>Fairview, OR</State>
+		<Price>1804</Price>
+	</record>
+	<record>
+		<State>Fall River, MA</State>
+		<Price>1058</Price>
+	</record>
+	<record>
+		<State>Fargo, ND</State>
+		<Price>733</Price>
+	</record>
+	<record>
+		<State>Fayetteville, NC</State>
+		<Price>784</Price>
+	</record>
+	<record>
+		<State>Federal Way, WA</State>
+		<Price>1759</Price>
+	</record>
+	<record>
+		<State>Fenton, MI</State>
+		<Price>1013</Price>
+	</record>
+	<record>
+		<State>Ferndale, MI</State>
+		<Price>942</Price>
+	</record>
+	<record>
+		<State>Flint, MI</State>
+		<Price>724</Price>
+	</record>
+	<record>
+		<State>Florence, KY</State>
+		<Price>980</Price>
+	</record>
+	<record>
+		<State>Florida</State>
+		<Price>1227</Price>
+	</record>
+	<record>
+		<State>Florissant, MO</State>
+		<Price>1003</Price>
+	</record>
+	<record>
+		<State>Flower Mound, TX</State>
+		<Price>2289</Price>
+	</record>
+	<record>
+		<State>Fontana, CA</State>
+		<Price>1332</Price>
+	</record>
+	<record>
+		<State>Forest Grove, OR</State>
+		<Price>1451</Price>
+	</record>
+	<record>
+		<State>Forest Park, GA</State>
+		<Price>1002</Price>
+	</record>
+	<record>
+		<State>Fort Collins, CO</State>
+		<Price>1177</Price>
+	</record>
+	<record>
+		<State>Fort Lauderdale, FL</State>
+		<Price>1469</Price>
+	</record>
+	<record>
+		<State>Fort Mill, SC</State>
+		<Price>1175</Price>
+	</record>
+	<record>
+		<State>Fort Smith, AR</State>
+		<Price>673</Price>
+	</record>
+	<record>
+		<State>Fort Wayne, IN</State>
+		<Price>781</Price>
+	</record>
+	<record>
+		<State>Fort Worth, TX</State>
+		<Price>1155</Price>
+	</record>
+	<record>
+		<State>Fox Lake, IL</State>
+		<Price>1103</Price>
+	</record>
+	<record>
+		<State>Framingham, MA</State>
+		<Price>1969</Price>
+	</record>
+	<record>
+		<State>Frankfort, KY</State>
+		<Price>801</Price>
+	</record>
+	<record>
+		<State>Franklin, IN</State>
+		<Price>732</Price>
+	</record>
+	<record>
+		<State>Frederick, MD</State>
+		<Price>1620</Price>
+	</record>
+	<record>
+		<State>Fremont, CA</State>
+		<Price>3796</Price>
+	</record>
+	<record>
+		<State>Fresno, CA</State>
+		<Price>1055</Price>
+	</record>
+	<record>
+		<State>Frisco, TX</State>
+		<Price>1605</Price>
+	</record>
+	<record>
+		<State>Fullerton, CA</State>
+		<Price>2031</Price>
+	</record>
+	<record>
+		<State>Gainesville, FL</State>
+		<Price>982</Price>
+	</record>
+	<record>
+		<State>Gainesville, GA</State>
+		<Price>1017</Price>
+	</record>
+	<record>
+		<State>Gaithersburg, MD</State>
+		<Price>1837</Price>
+	</record>
+	<record>
+		<State>Gallatin, TN</State>
+		<Price>1052</Price>
+	</record>
+	<record>
+		<State>Garden Grove, CA</State>
+		<Price>2102</Price>
+	</record>
+	<record>
+		<State>Gardner, KS</State>
+		<Price>1124</Price>
+	</record>
+	<record>
+		<State>Garland, TX</State>
+		<Price>1254</Price>
+	</record>
+	<record>
+		<State>Garner, NC</State>
+		<Price>1174</Price>
+	</record>
+	<record>
+		<State>Gastonia, NC</State>
+		<Price>816</Price>
+	</record>
+	<record>
+		<State>Georgetown, TX</State>
+		<Price>1443</Price>
+	</record>
+	<record>
+		<State>Georgia</State>
+		<Price>1040</Price>
+	</record>
+	<record>
+		<State>Germantown, MD</State>
+		<Price>2009</Price>
+	</record>
+	<record>
+		<State>Gilbert, AZ</State>
+		<Price>1546</Price>
+	</record>
+	<record>
+		<State>Gilroy, CA</State>
+		<Price>2392</Price>
+	</record>
+	<record>
+		<State>Gladstone, OR</State>
+		<Price>1791</Price>
+	</record>
+	<record>
+		<State>Glen Burnie, MD</State>
+		<Price>1535</Price>
+	</record>
+	<record>
+		<State>Glendale, AZ</State>
+		<Price>1181</Price>
+	</record>
+	<record>
+		<State>Glendale, CA</State>
+		<Price>1828</Price>
+	</record>
+	<record>
+		<State>Glenwood, IL</State>
+		<Price>1135</Price>
+	</record>
+	<record>
+		<State>Grand Blanc, MI</State>
+		<Price>959</Price>
+	</record>
+	<record>
+		<State>Grand Forks, ND</State>
+		<Price>785</Price>
+	</record>
+	<record>
+		<State>Grand Ledge, MI</State>
+		<Price>735</Price>
+	</record>
+	<record>
+		<State>Grand Prairie, TX</State>
+		<Price>1284</Price>
+	</record>
+	<record>
+		<State>Grand Rapids, MI</State>
+		<Price>920</Price>
+	</record>
+	<record>
+		<State>Grapevine, TX</State>
+		<Price>1350</Price>
+	</record>
+	<record>
+		<State>Grayson, GA</State>
+		<Price>1499</Price>
+	</record>
+	<record>
+		<State>Greenbelt, MD</State>
+		<Price>1633</Price>
+	</record>
+	<record>
+		<State>Greensboro, NC</State>
+		<Price>883</Price>
+	</record>
+	<record>
+		<State>Greenville, NC</State>
+		<Price>891</Price>
+	</record>
+	<record>
+		<State>Greenville, SC</State>
+		<Price>889</Price>
+	</record>
+	<record>
+		<State>Greenwood, IN</State>
+		<Price>932</Price>
+	</record>
+	<record>
+		<State>Gulfport, MS</State>
+		<Price>779</Price>
+	</record>
+	<record>
+		<State>Hackensack, NJ</State>
+		<Price>1693</Price>
+	</record>
+	<record>
+		<State>Hamilton, OH</State>
+		<Price>835</Price>
+	</record>
+	<record>
+		<State>Hammond, IN</State>
+		<Price>997</Price>
+	</record>
+	<record>
+		<State>Hampton, VA</State>
+		<Price>1067</Price>
+	</record>
+	<record>
+		<State>Harker Heights, TX</State>
+		<Price>743</Price>
+	</record>
+	<record>
+		<State>Harlingen, TX</State>
+		<Price>800</Price>
+	</record>
+	<record>
+		<State>Harrisburg, PA</State>
+		<Price>1016</Price>
+	</record>
+	<record>
+		<State>Harrisonburg, VA</State>
+		<Price>896</Price>
+	</record>
+	<record>
+		<State>Hartford, CT</State>
+		<Price>1040</Price>
+	</record>
+	<record>
+		<State>Hattiesburg, MS</State>
+		<Price>937</Price>
+	</record>
+	<record>
+		<State>Hawthorne, CA</State>
+		<Price>1627</Price>
+	</record>
+	<record>
+		<State>Hayward, CA</State>
+		<Price>2806</Price>
+	</record>
+	<record>
+		<State>Hazelwood, MO</State>
+		<Price>865</Price>
+	</record>
+	<record>
+		<State>Hemet, CA</State>
+		<Price>1267</Price>
+	</record>
+	<record>
+		<State>Henderson, NV</State>
+		<Price>1381</Price>
+	</record>
+	<record>
+		<State>Hendersonville, TN</State>
+		<Price>1253</Price>
+	</record>
+	<record>
+		<State>Hermosa Beach, CA</State>
+		<Price>2583</Price>
+	</record>
+	<record>
+		<State>High Point, NC</State>
+		<Price>872</Price>
+	</record>
+	<record>
+		<State>Highland, CA</State>
+		<Price>1018</Price>
+	</record>
+	<record>
+		<State>Highland, IN</State>
+		<Price>1433</Price>
+	</record>
+	<record>
+		<State>Hinesville, GA</State>
+		<Price>824</Price>
+	</record>
+	<record>
+		<State>Holland, MI</State>
+		<Price>911</Price>
+	</record>
+	<record>
+		<State>Hollywood, FL</State>
+		<Price>1444</Price>
+	</record>
+	<record>
+		<State>Hopewell, VA</State>
+		<Price>924</Price>
+	</record>
+	<record>
+		<State>Hopkins, MN</State>
+		<Price>1456</Price>
+	</record>
+	<record>
+		<State>Horn Lake, MS</State>
+		<Price>1000</Price>
+	</record>
+	<record>
+		<State>Houston, TX</State>
+		<Price>1035</Price>
+	</record>
+	<record>
+		<State>Humble, TX</State>
+		<Price>1290</Price>
+	</record>
+	<record>
+		<State>Huntsville, AL</State>
+		<Price>820</Price>
+	</record>
+	<record>
+		<State>Hurst, TX</State>
+		<Price>1219</Price>
+	</record>
+	<record>
+		<State>Hyattsville, MD</State>
+		<Price>1527</Price>
+	</record>
+	<record>
+		<State>Idaho</State>
+		<Price>856</Price>
+	</record>
+	<record>
+		<State>Idaho Falls, ID</State>
+		<Price>857</Price>
+	</record>
+	<record>
+		<State>Illinois</State>
+		<Price>1097</Price>
+	</record>
+	<record>
+		<State>Imperial, PA</State>
+		<Price>1078</Price>
+	</record>
+	<record>
+		<State>Independence, MO</State>
+		<Price>910</Price>
+	</record>
+	<record>
+		<State>Indiana</State>
+		<Price>833</Price>
+	</record>
+	<record>
+		<State>Indianapolis, IN</State>
+		<Price>878</Price>
+	</record>
+	<record>
+		<State>Inkster, MI</State>
+		<Price>868</Price>
+	</record>
+	<record>
+		<State>Iowa</State>
+		<Price>775</Price>
+	</record>
+	<record>
+		<State>Iowa City, IA</State>
+		<Price>1128</Price>
+	</record>
+	<record>
+		<State>Irving, TX</State>
+		<Price>1246</Price>
+	</record>
+	<record>
+		<State>Jackson, MI</State>
+		<Price>782</Price>
+	</record>
+	<record>
+		<State>Jackson, MS</State>
+		<Price>841</Price>
+	</record>
+	<record>
+		<State>Jacksonville, AR</State>
+		<Price>703</Price>
+	</record>
+	<record>
+		<State>Jacksonville, FL</State>
+		<Price>1097</Price>
+	</record>
+	<record>
+		<State>Jacksonville, NC</State>
+		<Price>757</Price>
+	</record>
+	<record>
+		<State>Jefferson City, MO</State>
+		<Price>676</Price>
+	</record>
+	<record>
+		<State>Jersey City, NJ</State>
+		<Price>1929</Price>
+	</record>
+	<record>
+		<State>Joliet, IL</State>
+		<Price>1135</Price>
+	</record>
+	<record>
+		<State>Jonesboro, AR</State>
+		<Price>725</Price>
+	</record>
+	<record>
+		<State>Jonesboro, GA</State>
+		<Price>1244</Price>
+	</record>
+	<record>
+		<State>Junction City, KS</State>
+		<Price>748</Price>
+	</record>
+	<record>
+		<State>Jupiter, FL</State>
+		<Price>1607</Price>
+	</record>
+	<record>
+		<State>Kalamazoo, MI</State>
+		<Price>891</Price>
+	</record>
+	<record>
+		<State>Kansas</State>
+		<Price>862</Price>
+	</record>
+	<record>
+		<State>Kansas City, MO</State>
+		<Price>921</Price>
+	</record>
+	<record>
+		<State>Keller, TX</State>
+		<Price>1723</Price>
+	</record>
+	<record>
+		<State>Kennewick, WA</State>
+		<Price>977</Price>
+	</record>
+	<record>
+		<State>Kent, OH</State>
+		<Price>865</Price>
+	</record>
+	<record>
+		<State>Kent, WA</State>
+		<Price>1873</Price>
+	</record>
+	<record>
+		<State>Kentucky</State>
+		<Price>773</Price>
+	</record>
+	<record>
+		<State>Killeen, TX</State>
+		<Price>763</Price>
+	</record>
+	<record>
+		<State>Kissimmee, FL</State>
+		<Price>1254</Price>
+	</record>
+	<record>
+		<State>La Mesa, CA</State>
+		<Price>1868</Price>
+	</record>
+	<record>
+		<State>La Mirada, CA</State>
+		<Price>2434</Price>
+	</record>
+	<record>
+		<State>La Vista, NE</State>
+		<Price>1074</Price>
+	</record>
+	<record>
+		<State>Ladera Ranch, CA</State>
+		<Price>4026</Price>
+	</record>
+	<record>
+		<State>Lafayette, IN</State>
+		<Price>813</Price>
+	</record>
+	<record>
+		<State>LaGrange, GA</State>
+		<Price>780</Price>
+	</record>
+	<record>
+		<State>Lake Mary, FL</State>
+		<Price>1617</Price>
+	</record>
+	<record>
+		<State>Lakeland, FL</State>
+		<Price>1070</Price>
+	</record>
+	<record>
+		<State>Lakewood, NJ</State>
+		<Price>1775</Price>
+	</record>
+	<record>
+		<State>Lakewood, WA</State>
+		<Price>1509</Price>
+	</record>
+	<record>
+		<State>Lancaster, CA</State>
+		<Price>1643</Price>
+	</record>
+	<record>
+		<State>Lancaster, OH</State>
+		<Price>1008</Price>
+	</record>
+	<record>
+		<State>Lancaster, PA</State>
+		<Price>1021</Price>
+	</record>
+	<record>
+		<State>Lansing, MI</State>
+		<Price>867</Price>
+	</record>
+	<record>
+		<State>Lapeer, MI</State>
+		<Price>895</Price>
+	</record>
+	<record>
+		<State>Laredo, TX</State>
+		<Price>840</Price>
+	</record>
+	<record>
+		<State>Las Cruces, NM</State>
+		<Price>726</Price>
+	</record>
+	<record>
+		<State>Las Vegas, NV</State>
+		<Price>1193</Price>
+	</record>
+	<record>
+		<State>Laurel, MD</State>
+		<Price>1620</Price>
+	</record>
+	<record>
+		<State>Lawrence, KS</State>
+		<Price>941</Price>
+	</record>
+	<record>
+		<State>Lawrenceville, GA</State>
+		<Price>1379</Price>
+	</record>
+	<record>
+		<State>Lawton, OK</State>
+		<Price>664</Price>
+	</record>
+	<record>
+		<State>Layton, UT</State>
+		<Price>1066</Price>
+	</record>
+	<record>
+		<State>League City, TX</State>
+		<Price>1479</Price>
+	</record>
+	<record>
+		<State>Lehigh Acres, FL</State>
+		<Price>982</Price>
+	</record>
+	<record>
+		<State>Lewisville, TX</State>
+		<Price>1291</Price>
+	</record>
+	<record>
+		<State>Lexington, KY</State>
+		<Price>864</Price>
+	</record>
+	<record>
+		<State>Lincoln Park, MI</State>
+		<Price>885</Price>
+	</record>
+	<record>
+		<State>Lincoln, NE</State>
+		<Price>868</Price>
+	</record>
+	<record>
+		<State>Little Rock, AR</State>
+		<Price>881</Price>
+	</record>
+	<record>
+		<State>Littleton, CO</State>
+		<Price>1896</Price>
+	</record>
+	<record>
+		<State>Livonia, MI</State>
+		<Price>1218</Price>
+	</record>
+	<record>
+		<State>Logan, UT</State>
+		<Price>698</Price>
+	</record>
+	<record>
+		<State>Loma Linda, CA</State>
+		<Price>1316</Price>
+	</record>
+	<record>
+		<State>Lone Tree, CO</State>
+		<Price>1999</Price>
+	</record>
+	<record>
+		<State>Long Beach, CA</State>
+		<Price>1782</Price>
+	</record>
+	<record>
+		<State>Long Branch, NJ</State>
+		<Price>2023</Price>
+	</record>
+	<record>
+		<State>Longmont, CO</State>
+		<Price>1289</Price>
+	</record>
+	<record>
+		<State>Longview, TX</State>
+		<Price>941</Price>
+	</record>
+	<record>
+		<State>Lorain, OH</State>
+		<Price>754</Price>
+	</record>
+	<record>
+		<State>Los Angeles, CA</State>
+		<Price>1758</Price>
+	</record>
+	<record>
+		<State>Louisiana</State>
+		<Price>831</Price>
+	</record>
+	<record>
+		<State>Louisville, KY</State>
+		<Price>844</Price>
+	</record>
+	<record>
+		<State>Lovejoy, GA</State>
+		<Price>882</Price>
+	</record>
+	<record>
+		<State>Loveland, CO</State>
+		<Price>1159</Price>
+	</record>
+	<record>
+		<State>Lowell, MA</State>
+		<Price>1542</Price>
+	</record>
+	<record>
+		<State>Lubbock, TX</State>
+		<Price>821</Price>
+	</record>
+	<record>
+		<State>Mableton, GA</State>
+		<Price>1069</Price>
+	</record>
+	<record>
+		<State>Madison Heights, MI</State>
+		<Price>1104</Price>
+	</record>
+	<record>
+		<State>Madison, AL</State>
+		<Price>950</Price>
+	</record>
+	<record>
+		<State>Madison, WI</State>
+		<Price>1020</Price>
+	</record>
+	<record>
+		<State>Maine</State>
+		<Price>965</Price>
+	</record>
+	<record>
+		<State>Manchester, NH</State>
+		<Price>1371</Price>
+	</record>
+	<record>
+		<State>Manhattan, KS</State>
+		<Price>744</Price>
+	</record>
+	<record>
+		<State>Marana, AZ</State>
+		<Price>1499</Price>
+	</record>
+	<record>
+		<State>Marietta, PA</State>
+		<Price>852</Price>
+	</record>
+	<record>
+		<State>Marshall, MI</State>
+		<Price>851</Price>
+	</record>
+	<record>
+		<State>Maryland</State>
+		<Price>1524</Price>
+	</record>
+	<record>
+		<State>Maryland Heights, MO</State>
+		<Price>1123</Price>
+	</record>
+	<record>
+		<State>Marysville, WA</State>
+		<Price>1655</Price>
+	</record>
+	<record>
+		<State>Massachusetts</State>
+		<Price>1643</Price>
+	</record>
+	<record>
+		<State>Matthews, NC</State>
+		<Price>1432</Price>
+	</record>
+	<record>
+		<State>McKinney, TX</State>
+		<Price>1451</Price>
+	</record>
+	<record>
+		<State>Medford, OR</State>
+		<Price>1009</Price>
+	</record>
+	<record>
+		<State>Melbourne, FL</State>
+		<Price>1246</Price>
+	</record>
+	<record>
+		<State>Melvindale, MI</State>
+		<Price>932</Price>
+	</record>
+	<record>
+		<State>Memphis, TN</State>
+		<Price>837</Price>
+	</record>
+	<record>
+		<State>Menifee, CA</State>
+		<Price>1673</Price>
+	</record>
+	<record>
+		<State>Mentor, OH</State>
+		<Price>1080</Price>
+	</record>
+	<record>
+		<State>Mesa, AZ</State>
+		<Price>1149</Price>
+	</record>
+	<record>
+		<State>Metairie, LA</State>
+		<Price>967</Price>
+	</record>
+	<record>
+		<State>Miami Gardens, FL</State>
+		<Price>1447</Price>
+	</record>
+	<record>
+		<State>Miami, FL</State>
+		<Price>1384</Price>
+	</record>
+	<record>
+		<State>Miamisburg, OH</State>
+		<Price>969</Price>
+	</record>
+	<record>
+		<State>Michigan</State>
+		<Price>928</Price>
+	</record>
+	<record>
+		<State>Middle River, MD</State>
+		<Price>1326</Price>
+	</record>
+	<record>
+		<State>Middletown, OH</State>
+		<Price>899</Price>
+	</record>
+	<record>
+		<State>Midland, MI</State>
+		<Price>752</Price>
+	</record>
+	<record>
+		<State>Midvale, UT</State>
+		<Price>1235</Price>
+	</record>
+	<record>
+		<State>Milwaukee, WI</State>
+		<Price>906</Price>
+	</record>
+	<record>
+		<State>Minneapolis, MN</State>
+		<Price>1155</Price>
+	</record>
+	<record>
+		<State>Minnesota</State>
+		<Price>1095</Price>
+	</record>
+	<record>
+		<State>Minnetonka, MN</State>
+		<Price>1517</Price>
+	</record>
+	<record>
+		<State>Mississippi</State>
+		<Price>809</Price>
+	</record>
+	<record>
+		<State>Missoula, MT</State>
+		<Price>921</Price>
+	</record>
+	<record>
+		<State>Missouri</State>
+		<Price>852</Price>
+	</record>
+	<record>
+		<State>Missouri City, TX</State>
+		<Price>1444</Price>
+	</record>
+	<record>
+		<State>Mobile, AL</State>
+		<Price>969</Price>
+	</record>
+	<record>
+		<State>Monroe, LA</State>
+		<Price>823</Price>
+	</record>
+	<record>
+		<State>Montana</State>
+		<Price>791</Price>
+	</record>
+	<record>
+		<State>Monterey, CA</State>
+		<Price>1801</Price>
+	</record>
+	<record>
+		<State>Montgomery, AL</State>
+		<Price>869</Price>
+	</record>
+	<record>
+		<State>Moreno Valley, CA</State>
+		<Price>1725</Price>
+	</record>
+	<record>
+		<State>Morrisville, NC</State>
+		<Price>1390</Price>
+	</record>
+	<record>
+		<State>Muncie, IN</State>
+		<Price>734</Price>
+	</record>
+	<record>
+		<State>Murrieta, CA</State>
+		<Price>1794</Price>
+	</record>
+	<record>
+		<State>Muskegon, MI</State>
+		<Price>748</Price>
+	</record>
+	<record>
+		<State>Nampa, ID</State>
+		<Price>907</Price>
+	</record>
+	<record>
+		<State>Nashville, TN</State>
+		<Price>1169</Price>
+	</record>
+	<record>
+		<State>National</State>
+		<Price>1196</Price>
+	</record>
+	<record>
+		<State>Nebraska</State>
+		<Price>844</Price>
+	</record>
+	<record>
+		<State>Nevada</State>
+		<Price>1135</Price>
+	</record>
+	<record>
+		<State>New Baltimore, MI</State>
+		<Price>1115</Price>
+	</record>
+	<record>
+		<State>New Britain, CT</State>
+		<Price>1040</Price>
+	</record>
+	<record>
+		<State>New Hampshire</State>
+		<Price>1341</Price>
+	</record>
+	<record>
+		<State>New Haven, CT</State>
+		<Price>1334</Price>
+	</record>
+	<record>
+		<State>New Jersey</State>
+		<Price>1549</Price>
+	</record>
+	<record>
+		<State>New Mexico</State>
+		<Price>837</Price>
+	</record>
+	<record>
+		<State>New Orleans, LA</State>
+		<Price>972</Price>
+	</record>
+	<record>
+		<State>New Port Richey, FL</State>
+		<Price>1031</Price>
+	</record>
+	<record>
+		<State>New York</State>
+		<Price>1542</Price>
+	</record>
+	<record>
+		<State>New York, NY</State>
+		<Price>2559</Price>
+	</record>
+	<record>
+		<State>Newark, OH</State>
+		<Price>796</Price>
+	</record>
+	<record>
+		<State>Newington, CT</State>
+		<Price>1296</Price>
+	</record>
+	<record>
+		<State>Newport News, VA</State>
+		<Price>1015</Price>
+	</record>
+	<record>
+		<State>Noblesville, IN</State>
+		<Price>1079</Price>
+	</record>
+	<record>
+		<State>Norfolk, VA</State>
+		<Price>960</Price>
+	</record>
+	<record>
+		<State>Normal, IL</State>
+		<Price>843</Price>
+	</record>
+	<record>
+		<State>Norman, OK</State>
+		<Price>814</Price>
+	</record>
+	<record>
+		<State>Norristown, PA</State>
+		<Price>1449</Price>
+	</record>
+	<record>
+		<State>North Carolina</State>
+		<Price>929</Price>
+	</record>
+	<record>
+		<State>North Charleston, SC</State>
+		<Price>1110</Price>
+	</record>
+	<record>
+		<State>North Chicago, IL</State>
+		<Price>979</Price>
+	</record>
+	<record>
+		<State>North Dakota</State>
+		<Price>750</Price>
+	</record>
+	<record>
+		<State>North Las Vegas, NV</State>
+		<Price>1194</Price>
+	</record>
+	<record>
+		<State>North Little Rock, AR</State>
+		<Price>812</Price>
+	</record>
+	<record>
+		<State>North Port, FL</State>
+		<Price>1179</Price>
+	</record>
+	<record>
+		<State>North Richland Hills, TX</State>
+		<Price>1372</Price>
+	</record>
+	<record>
+		<State>Norwalk, CA</State>
+		<Price>2057</Price>
+	</record>
+	<record>
+		<State>Novato, CA</State>
+		<Price>3387</Price>
+	</record>
+	<record>
+		<State>Oak Park, MI</State>
+		<Price>1287</Price>
+	</record>
+	<record>
+		<State>Ocala, FL</State>
+		<Price>993</Price>
+	</record>
+	<record>
+		<State>Oceanside, CA</State>
+		<Price>2356</Price>
+	</record>
+	<record>
+		<State>Oconomowoc, WI</State>
+		<Price>1044</Price>
+	</record>
+	<record>
+		<State>Ogden, UT</State>
+		<Price>894</Price>
+	</record>
+	<record>
+		<State>Ohio</State>
+		<Price>858</Price>
+	</record>
+	<record>
+		<State>Oklahoma</State>
+		<Price>776</Price>
+	</record>
+	<record>
+		<State>Oklahoma City, OK</State>
+		<Price>814</Price>
+	</record>
+	<record>
+		<State>Olathe, KS</State>
+		<Price>1178</Price>
+	</record>
+	<record>
+		<State>Omaha, NE</State>
+		<Price>959</Price>
+	</record>
+	<record>
+		<State>Ontario, CA</State>
+		<Price>1519</Price>
+	</record>
+	<record>
+		<State>Orange, CA</State>
+		<Price>2324</Price>
+	</record>
+	<record>
+		<State>Oregon</State>
+		<Price>1210</Price>
+	</record>
+	<record>
+		<State>Orlando, FL</State>
+		<Price>1287</Price>
+	</record>
+	<record>
+		<State>Ormond Beach, FL</State>
+		<Price>1164</Price>
+	</record>
+	<record>
+		<State>Ortonville, MI</State>
+		<Price>883</Price>
+	</record>
+	<record>
+		<State>Overland Park, KS</State>
+		<Price>1221</Price>
+	</record>
+	<record>
+		<State>Owings Mills, MD</State>
+		<Price>1548</Price>
+	</record>
+	<record>
+		<State>Oxnard, CA</State>
+		<Price>1660</Price>
+	</record>
+	<record>
+		<State>Pacifica, CA</State>
+		<Price>3851</Price>
+	</record>
+	<record>
+		<State>Palm Bay, FL</State>
+		<Price>1059</Price>
+	</record>
+	<record>
+		<State>Palm Beach Gardens, FL</State>
+		<Price>1828</Price>
+	</record>
+	<record>
+		<State>Palm Desert, CA</State>
+		<Price>1203</Price>
+	</record>
+	<record>
+		<State>Palm Harbor, FL</State>
+		<Price>1345</Price>
+	</record>
+	<record>
+		<State>Palm Springs, CA</State>
+		<Price>1174</Price>
+	</record>
+	<record>
+		<State>Palmdale, CA</State>
+		<Price>1891</Price>
+	</record>
+	<record>
+		<State>Palo Alto, CA</State>
+		<Price>3230</Price>
+	</record>
+	<record>
+		<State>Paramount, CA</State>
+		<Price>1897</Price>
+	</record>
+	<record>
+		<State>Park Forest, IL</State>
+		<Price>1171</Price>
+	</record>
+	<record>
+		<State>Parker, CO</State>
+		<Price>1803</Price>
+	</record>
+	<record>
+		<State>Parkville, MD</State>
+		<Price>1399</Price>
+	</record>
+	<record>
+		<State>Pasadena, CA</State>
+		<Price>2092</Price>
+	</record>
+	<record>
+		<State>Pasadena, MD</State>
+		<Price>1965</Price>
+	</record>
+	<record>
+		<State>Pasadena, TX</State>
+		<Price>1021</Price>
+	</record>
+	<record>
+		<State>Pascagoula, MS</State>
+		<Price>693</Price>
+	</record>
+	<record>
+		<State>Pearland, TX</State>
+		<Price>1363</Price>
+	</record>
+	<record>
+		<State>Pembroke Pines, FL</State>
+		<Price>2406</Price>
+	</record>
+	<record>
+		<State>Pennsylvania</State>
+		<Price>1028</Price>
+	</record>
+	<record>
+		<State>Peoria, AZ</State>
+		<Price>1479</Price>
+	</record>
+	<record>
+		<State>Peoria, IL</State>
+		<Price>822</Price>
+	</record>
+	<record>
+		<State>Perris, CA</State>
+		<Price>1109</Price>
+	</record>
+	<record>
+		<State>Perry Hall, MD</State>
+		<Price>1661</Price>
+	</record>
+	<record>
+		<State>Petersburg, VA</State>
+		<Price>904</Price>
+	</record>
+	<record>
+		<State>Pflugerville, TX</State>
+		<Price>1611</Price>
+	</record>
+	<record>
+		<State>Phenix City, AL</State>
+		<Price>761</Price>
+	</record>
+	<record>
+		<State>Philadelphia, PA</State>
+		<Price>1182</Price>
+	</record>
+	<record>
+		<State>Phoenix, AZ</State>
+		<Price>1106</Price>
+	</record>
+	<record>
+		<State>Pineville, NC</State>
+		<Price>1231</Price>
+	</record>
+	<record>
+		<State>Pittsburg, CA</State>
+		<Price>3194</Price>
+	</record>
+	<record>
+		<State>Pittsburgh, PA</State>
+		<Price>926</Price>
+	</record>
+	<record>
+		<State>Plainfield, IN</State>
+		<Price>1014</Price>
+	</record>
+	<record>
+		<State>Plano, TX</State>
+		<Price>1466</Price>
+	</record>
+	<record>
+		<State>Pleasanton, CA</State>
+		<Price>3689</Price>
+	</record>
+	<record>
+		<State>Pompano Beach, FL</State>
+		<Price>1478</Price>
+	</record>
+	<record>
+		<State>Pontiac, MI</State>
+		<Price>953</Price>
+	</record>
+	<record>
+		<State>Port Huron, MI</State>
+		<Price>844</Price>
+	</record>
+	<record>
+		<State>Port Orange, FL</State>
+		<Price>1215</Price>
+	</record>
+	<record>
+		<State>Port Washington, WI</State>
+		<Price>900</Price>
+	</record>
+	<record>
+		<State>Portland, OR</State>
+		<Price>1325</Price>
+	</record>
+	<record>
+		<State>Portsmouth, VA</State>
+		<Price>949</Price>
+	</record>
+	<record>
+		<State>Post Falls, ID</State>
+		<Price>863</Price>
+	</record>
+	<record>
+		<State>Puyallup, WA</State>
+		<Price>1958</Price>
+	</record>
+	<record>
+		<State>Quincy, MA</State>
+		<Price>1926</Price>
+	</record>
+	<record>
+		<State>Radcliff, KY</State>
+		<Price>695</Price>
+	</record>
+	<record>
+		<State>Rahway, NJ</State>
+		<Price>1565</Price>
+	</record>
+	<record>
+		<State>Raleigh, NC</State>
+		<Price>1168</Price>
+	</record>
+	<record>
+		<State>Rancho Cucamonga, CA</State>
+		<Price>1815</Price>
+	</record>
+	<record>
+		<State>Rapid City, SD</State>
+		<Price>844</Price>
+	</record>
+	<record>
+		<State>Redlands, CA</State>
+		<Price>1182</Price>
+	</record>
+	<record>
+		<State>Redwood City, CA</State>
+		<Price>3562</Price>
+	</record>
+	<record>
+		<State>Reisterstown, MD</State>
+		<Price>1474</Price>
+	</record>
+	<record>
+		<State>Reno, NV</State>
+		<Price>1171</Price>
+	</record>
+	<record>
+		<State>Renton, WA</State>
+		<Price>2156</Price>
+	</record>
+	<record>
+		<State>Rhode Island</State>
+		<Price>1182</Price>
+	</record>
+	<record>
+		<State>Richardson, TX</State>
+		<Price>1329</Price>
+	</record>
+	<record>
+		<State>Richland, WA</State>
+		<Price>1019</Price>
+	</record>
+	<record>
+		<State>Richmond, TX</State>
+		<Price>1234</Price>
+	</record>
+	<record>
+		<State>Richmond, VA</State>
+		<Price>1049</Price>
+	</record>
+	<record>
+		<State>Rio Rancho, NM</State>
+		<Price>1042</Price>
+	</record>
+	<record>
+		<State>Riverdale, GA</State>
+		<Price>1195</Price>
+	</record>
+	<record>
+		<State>Riverside, CA</State>
+		<Price>1352</Price>
+	</record>
+	<record>
+		<State>Riverview, FL</State>
+		<Price>1328</Price>
+	</record>
+	<record>
+		<State>Roanoke, VA</State>
+		<Price>872</Price>
+	</record>
+	<record>
+		<State>Rochester, NY</State>
+		<Price>974</Price>
+	</record>
+	<record>
+		<State>Rock Hill, SC</State>
+		<Price>1032</Price>
+	</record>
+	<record>
+		<State>Rockford, IL</State>
+		<Price>827</Price>
+	</record>
+	<record>
+		<State>Rockwood, MI</State>
+		<Price>904</Price>
+	</record>
+	<record>
+		<State>Rocky Mount, NC</State>
+		<Price>839</Price>
+	</record>
+	<record>
+		<State>Rogers, AR</State>
+		<Price>866</Price>
+	</record>
+	<record>
+		<State>Rohnert Park, CA</State>
+		<Price>1992</Price>
+	</record>
+	<record>
+		<State>Romeoville, IL</State>
+		<Price>1917</Price>
+	</record>
+	<record>
+		<State>Romulus, MI</State>
+		<Price>877</Price>
+	</record>
+	<record>
+		<State>Roseville, MI</State>
+		<Price>984</Price>
+	</record>
+	<record>
+		<State>Roswell, GA</State>
+		<Price>1483</Price>
+	</record>
+	<record>
+		<State>Round Rock, TX</State>
+		<Price>1606</Price>
+	</record>
+	<record>
+		<State>Royal Oak, MI</State>
+		<Price>1084</Price>
+	</record>
+	<record>
+		<State>Sacramento, CA</State>
+		<Price>1244</Price>
+	</record>
+	<record>
+		<State>Saginaw, MI</State>
+		<Price>789</Price>
+	</record>
+	<record>
+		<State>Salem, MA</State>
+		<Price>1794</Price>
+	</record>
+	<record>
+		<State>Salinas, CA</State>
+		<Price>2150</Price>
+	</record>
+	<record>
+		<State>Salisbury, MD</State>
+		<Price>1080</Price>
+	</record>
+	<record>
+		<State>Salt Lake City, UT</State>
+		<Price>1091</Price>
+	</record>
+	<record>
+		<State>San Antonio, TX</State>
+		<Price>1079</Price>
+	</record>
+	<record>
+		<State>San Bernardino, CA</State>
+		<Price>1069</Price>
+	</record>
+	<record>
+		<State>San Diego, CA</State>
+		<Price>2051</Price>
+	</record>
+	<record>
+		<State>San Dimas, CA</State>
+		<Price>2448</Price>
+	</record>
+	<record>
+		<State>San Francisco, CA</State>
+		<Price>3094</Price>
+	</record>
+	<record>
+		<State>San Jose, CA</State>
+		<Price>2680</Price>
+	</record>
+	<record>
+		<State>San Marcos, CA</State>
+		<Price>2028</Price>
+	</record>
+	<record>
+		<State>San Marcos, TX</State>
+		<Price>1198</Price>
+	</record>
+	<record>
+		<State>San Mateo, CA</State>
+		<Price>4501</Price>
+	</record>
+	<record>
+		<State>San Ramon, CA</State>
+		<Price>3791</Price>
+	</record>
+	<record>
+		<State>Santa Ana, CA</State>
+		<Price>1857</Price>
+	</record>
+	<record>
+		<State>Santa Clara, CA</State>
+		<Price>2840</Price>
+	</record>
+	<record>
+		<State>Santa Clarita, CA</State>
+		<Price>2666</Price>
+	</record>
+	<record>
+		<State>Santa Cruz, CA</State>
+		<Price>2453</Price>
+	</record>
+	<record>
+		<State>Sarasota, FL</State>
+		<Price>1408</Price>
+	</record>
+	<record>
+		<State>Savannah, GA</State>
+		<Price>1047</Price>
+	</record>
+	<record>
+		<State>Schaumburg, IL</State>
+		<Price>1704</Price>
+	</record>
+	<record>
+		<State>Scottsdale, AZ</State>
+		<Price>1372</Price>
+	</record>
+	<record>
+		<State>Seattle, WA</State>
+		<Price>1693</Price>
+	</record>
+	<record>
+		<State>Severn, MD</State>
+		<Price>1692</Price>
+	</record>
+	<record>
+		<State>Shawnee, KS</State>
+		<Price>1059</Price>
+	</record>
+	<record>
+		<State>Sherman, TX</State>
+		<Price>968</Price>
+	</record>
+	<record>
+		<State>Sierra Vista, AZ</State>
+		<Price>882</Price>
+	</record>
+	<record>
+		<State>Sioux Falls, SD</State>
+		<Price>765</Price>
+	</record>
+	<record>
+		<State>Slidell, LA</State>
+		<Price>1142</Price>
+	</record>
+	<record>
+		<State>Smyrna, GA</State>
+		<Price>1325</Price>
+	</record>
+	<record>
+		<State>Snellville, GA</State>
+		<Price>1496</Price>
+	</record>
+	<record>
+		<State>South Carolina</State>
+		<Price>936</Price>
+	</record>
+	<record>
+		<State>South Dakota</State>
+		<Price>727</Price>
+	</record>
+	<record>
+		<State>South Gate, CA</State>
+		<Price>1273</Price>
+	</record>
+	<record>
+		<State>Southfield, MI</State>
+		<Price>1200</Price>
+	</record>
+	<record>
+		<State>Spanaway, WA</State>
+		<Price>1653</Price>
+	</record>
+	<record>
+		<State>Spring, TX</State>
+		<Price>1379</Price>
+	</record>
+	<record>
+		<State>Springfield, IL</State>
+		<Price>724</Price>
+	</record>
+	<record>
+		<State>Springfield, MO</State>
+		<Price>701</Price>
+	</record>
+	<record>
+		<State>Springfield, OH</State>
+		<Price>722</Price>
+	</record>
+	<record>
+		<State>Springfield, OR</State>
+		<Price>995</Price>
+	</record>
+	<record>
+		<State>St. Ann, MO</State>
+		<Price>840</Price>
+	</record>
+	<record>
+		<State>St. Clair Shores, MI</State>
+		<Price>985</Price>
+	</record>
+	<record>
+		<State>St. Joseph, MO</State>
+		<Price>827</Price>
+	</record>
+	<record>
+		<State>St. Louis, MO</State>
+		<Price>941</Price>
+	</record>
+	<record>
+		<State>St. Paul, MN</State>
+		<Price>1244</Price>
+	</record>
+	<record>
+		<State>St. Petersburg, FL</State>
+		<Price>1209</Price>
+	</record>
+	<record>
+		<State>Stamford, CT</State>
+		<Price>1956</Price>
+	</record>
+	<record>
+		<State>Sterling Heights, MI</State>
+		<Price>1087</Price>
+	</record>
+	<record>
+		<State>Stockton, CA</State>
+		<Price>1303</Price>
+	</record>
+	<record>
+		<State>Sugar Land, TX</State>
+		<Price>1562</Price>
+	</record>
+	<record>
+		<State>Suisun City, CA</State>
+		<Price>1956</Price>
+	</record>
+	<record>
+		<State>Sumter, SC</State>
+		<Price>735</Price>
+	</record>
+	<record>
+		<State>Suwanee, GA</State>
+		<Price>1874</Price>
+	</record>
+	<record>
+		<State>Syracuse, NY</State>
+		<Price>837</Price>
+	</record>
+	<record>
+		<State>Tacoma, WA</State>
+		<Price>1570</Price>
+	</record>
+	<record>
+		<State>Tallahassee, FL</State>
+		<Price>1013</Price>
+	</record>
+	<record>
+		<State>Tampa, FL</State>
+		<Price>1292</Price>
+	</record>
+	<record>
+		<State>Tarpon Springs, FL</State>
+		<Price>1116</Price>
+	</record>
+	<record>
+		<State>Taylor, MI</State>
+		<Price>897</Price>
+	</record>
+	<record>
+		<State>Tempe, AZ</State>
+		<Price>1223</Price>
+	</record>
+	<record>
+		<State>Temple, TX</State>
+		<Price>808</Price>
+	</record>
+	<record>
+		<State>Tennessee</State>
+		<Price>878</Price>
+	</record>
+	<record>
+		<State>Texarkana, AR</State>
+		<Price>729</Price>
+	</record>
+	<record>
+		<State>Texarkana, TX</State>
+		<Price>794</Price>
+	</record>
+	<record>
+		<State>Texas</State>
+		<Price>1069</Price>
+	</record>
+	<record>
+		<State>Texas City, TX</State>
+		<Price>1112</Price>
+	</record>
+	<record>
+		<State>The Colony, TX</State>
+		<Price>1506</Price>
+	</record>
+	<record>
+		<State>Thornton, CO</State>
+		<Price>1925</Price>
+	</record>
+	<record>
+		<State>Thousand Oaks, CA</State>
+		<Price>2714</Price>
+	</record>
+	<record>
+		<State>Toledo, OH</State>
+		<Price>776</Price>
+	</record>
+	<record>
+		<State>Tolleson, AZ</State>
+		<Price>1247</Price>
+	</record>
+	<record>
+		<State>Topeka, KS</State>
+		<Price>804</Price>
+	</record>
+	<record>
+		<State>Torrance, CA</State>
+		<Price>2092</Price>
+	</record>
+	<record>
+		<State>Towson, MD</State>
+		<Price>1499</Price>
+	</record>
+	<record>
+		<State>Trenton, MI</State>
+		<Price>882</Price>
+	</record>
+	<record>
+		<State>Troy, MI</State>
+		<Price>1303</Price>
+	</record>
+	<record>
+		<State>Troy, NY</State>
+		<Price>1008</Price>
+	</record>
+	<record>
+		<State>Troy, OH</State>
+		<Price>748</Price>
+	</record>
+	<record>
+		<State>Tucson, AZ</State>
+		<Price>955</Price>
+	</record>
+	<record>
+		<State>Tulsa, OK</State>
+		<Price>841</Price>
+	</record>
+	<record>
+		<State>Turtle Creek, PA</State>
+		<Price>644</Price>
+	</record>
+	<record>
+		<State>Tuscaloosa, AL</State>
+		<Price>902</Price>
+	</record>
+	<record>
+		<State>Tustin, CA</State>
+		<Price>2524</Price>
+	</record>
+	<record>
+		<State>Twentynine Palms, CA</State>
+		<Price>831</Price>
+	</record>
+	<record>
+		<State>Universal City, TX</State>
+		<Price>1265</Price>
+	</record>
+	<record>
+		<State>Urbana, IL</State>
+		<Price>888</Price>
+	</record>
+	<record>
+		<State>Utah</State>
+		<Price>996</Price>
+	</record>
+	<record>
+		<State>Utica, MI</State>
+		<Price>1004</Price>
+	</record>
+	<record>
+		<State>Valdosta, GA</State>
+		<Price>710</Price>
+	</record>
+	<record>
+		<State>Vancouver, WA</State>
+		<Price>1679</Price>
+	</record>
+	<record>
+		<State>Vandalia, OH</State>
+		<Price>651</Price>
+	</record>
+	<record>
+		<State>Vermont</State>
+		<Price>1228</Price>
+	</record>
+	<record>
+		<State>Victoria, TX</State>
+		<Price>947</Price>
+	</record>
+	<record>
+		<State>Victorville, CA</State>
+		<Price>1427</Price>
+	</record>
+	<record>
+		<State>Virginia</State>
+		<Price>1266</Price>
+	</record>
+	<record>
+		<State>Virginia Beach, VA</State>
+		<Price>1319</Price>
+	</record>
+	<record>
+		<State>Visalia, CA</State>
+		<Price>1056</Price>
+	</record>
+	<record>
+		<State>Vista, CA</State>
+		<Price>1870</Price>
+	</record>
+	<record>
+		<State>Waco, TX</State>
+		<Price>833</Price>
+	</record>
+	<record>
+		<State>Walnut Creek, CA</State>
+		<Price>3112</Price>
+	</record>
+	<record>
+		<State>Warner Robins, GA</State>
+		<Price>918</Price>
+	</record>
+	<record>
+		<State>Washington</State>
+		<Price>1482</Price>
+	</record>
+	<record>
+		<State>Washington, DC</State>
+		<Price>1581</Price>
+	</record>
+	<record>
+		<State>Waterbury, CT</State>
+		<Price>1135</Price>
+	</record>
+	<record>
+		<State>Waukegan, IL</State>
+		<Price>1016</Price>
+	</record>
+	<record>
+		<State>Wausau, WI</State>
+		<Price>742</Price>
+	</record>
+	<record>
+		<State>Wayne, MI</State>
+		<Price>807</Price>
+	</record>
+	<record>
+		<State>Weatherford, TX</State>
+		<Price>1126</Price>
+	</record>
+	<record>
+		<State>Webster, TX</State>
+		<Price>1227</Price>
+	</record>
+	<record>
+		<State>Wellington, FL</State>
+		<Price>1925</Price>
+	</record>
+	<record>
+		<State>Weslaco, TX</State>
+		<Price>735</Price>
+	</record>
+	<record>
+		<State>West Chester, PA</State>
+		<Price>1603</Price>
+	</record>
+	<record>
+		<State>West Covina, CA</State>
+		<Price>2320</Price>
+	</record>
+	<record>
+		<State>West Lafayette, IN</State>
+		<Price>913</Price>
+	</record>
+	<record>
+		<State>West Palm Beach, FL</State>
+		<Price>1399</Price>
+	</record>
+	<record>
+		<State>West Sacramento, CA</State>
+		<Price>950</Price>
+	</record>
+	<record>
+		<State>West Virginia</State>
+		<Price>736</Price>
+	</record>
+	<record>
+		<State>Westland, MI</State>
+		<Price>971</Price>
+	</record>
+	<record>
+		<State>Westminster, CO</State>
+		<Price>1650</Price>
+	</record>
+	<record>
+		<State>Wheat Ridge, CO</State>
+		<Price>1278</Price>
+	</record>
+	<record>
+		<State>Wheeling, IL</State>
+		<Price>1349</Price>
+	</record>
+	<record>
+		<State>Wichita, KS</State>
+		<Price>760</Price>
+	</record>
+	<record>
+		<State>Wildomar, CA</State>
+		<Price>1811</Price>
+	</record>
+	<record>
+		<State>Williamsport, PA</State>
+		<Price>733</Price>
+	</record>
+	<record>
+		<State>Willoughby, OH</State>
+		<Price>917</Price>
+	</record>
+	<record>
+		<State>Winston-Salem, NC</State>
+		<Price>824</Price>
+	</record>
+	<record>
+		<State>Winter Haven, FL</State>
+		<Price>891</Price>
+	</record>
+	<record>
+		<State>Winter Park, FL</State>
+		<Price>1252</Price>
+	</record>
+	<record>
+		<State>Wisconsin</State>
+		<Price>873</Price>
+	</record>
+	<record>
+		<State>Woodstock, IL</State>
+		<Price>1153</Price>
+	</record>
+	<record>
+		<State>Worcester, MA</State>
+		<Price>1274</Price>
+	</record>
+	<record>
+		<State>Wyandotte, MI</State>
+		<Price>814</Price>
+	</record>
+	<record>
+		<State>Wyoming</State>
+		<Price>800</Price>
+	</record>
+	<record>
+		<State>Yakima, WA</State>
+		<Price>912</Price>
+	</record>
+	<record>
+		<State>Youngstown, OH</State>
+		<Price>726</Price>
+	</record>
+	<record>
+		<State>Ypsilanti, MI</State>
+		<Price>1054</Price>
+	</record>
+	<record>
+		<State>Yucca Valley, CA</State>
+		<Price>868</Price>
+	</record>
+	<record>
+		<State>Zion, IL</State>
+		<Price>1056</Price>
+	</record>
+</data-set>

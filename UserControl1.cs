@@ -139,6 +139,11 @@ namespace retireCalc
             DataSet dataSet = new DataSet();
             dataSet.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobOutlook2.xml");
             careerOptions.DataSource = dataSet.Tables[0];
+
+            DataSet dataSet2 = new DataSet();
+            dataSet2.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\rent2.xml");
+            livingOption.DataSource = dataSet2.Tables[0];
+
         }
         private void Reset_Click(object sender, EventArgs e)
         {
