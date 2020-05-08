@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series7 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.age = new System.Windows.Forms.TextBox();
             this.ageLabel = new System.Windows.Forms.Label();
             this.retireAge = new System.Windows.Forms.TextBox();
@@ -52,8 +52,10 @@
             this.salary = new System.Windows.Forms.TextBox();
             this.salaryCalculate = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.salaryPercentage = new System.Windows.Forms.TextBox();
+            this.rent = new System.Windows.Forms.TextBox();
+            this.inv = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.chartGraphic)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.livingOption)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.careerOptions)).BeginInit();
@@ -180,33 +182,33 @@
             // 
             // chartGraphic
             // 
-            chartArea3.Name = "ChartArea1";
-            this.chartGraphic.ChartAreas.Add(chartArea3);
-            legend3.Name = "legend1";
-            legend3.Title = "legend";
-            this.chartGraphic.Legends.Add(legend3);
+            chartArea4.Name = "ChartArea1";
+            this.chartGraphic.ChartAreas.Add(chartArea4);
+            legend4.Name = "legend1";
+            legend4.Title = "legend";
+            this.chartGraphic.Legends.Add(legend4);
             this.chartGraphic.Location = new System.Drawing.Point(4, 4);
             this.chartGraphic.Margin = new System.Windows.Forms.Padding(4);
             this.chartGraphic.Name = "chartGraphic";
-            series5.ChartArea = "ChartArea1";
-            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series5.Legend = "legend1";
-            series5.LegendText = "Retirement over Time";
-            series5.Name = "Retirement";
-            series6.ChartArea = "ChartArea1";
-            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series6.Legend = "legend1";
-            series6.LegendText = "Investment over Time";
-            series6.Name = "Investment";
-            this.chartGraphic.Series.Add(series5);
-            this.chartGraphic.Series.Add(series6);
+            series7.ChartArea = "ChartArea1";
+            series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series7.Legend = "legend1";
+            series7.LegendText = "Retirement over Time";
+            series7.Name = "Retirement";
+            series8.ChartArea = "ChartArea1";
+            series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series8.Legend = "legend1";
+            series8.LegendText = "Investment over Time";
+            series8.Name = "Investment";
+            this.chartGraphic.Series.Add(series7);
+            this.chartGraphic.Series.Add(series8);
             this.chartGraphic.Size = new System.Drawing.Size(867, 298);
             this.chartGraphic.TabIndex = 13;
             // 
             // Reset
             // 
             this.Reset.Font = new System.Drawing.Font("Arial Narrow", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Reset.Location = new System.Drawing.Point(1060, 446);
+            this.Reset.Location = new System.Drawing.Point(1060, 467);
             this.Reset.Name = "Reset";
             this.Reset.Size = new System.Drawing.Size(75, 37);
             this.Reset.TabIndex = 14;
@@ -263,30 +265,50 @@
             this.label2.TabIndex = 19;
             this.label2.Text = "Desired Salary(yearly):";
             // 
-            // salaryPercentage
+            // rent
             // 
-            this.salaryPercentage.Location = new System.Drawing.Point(1035, 409);
-            this.salaryPercentage.Name = "salaryPercentage";
-            this.salaryPercentage.ReadOnly = true;
-            this.salaryPercentage.Size = new System.Drawing.Size(100, 22);
-            this.salaryPercentage.TabIndex = 20;
+            this.rent.Location = new System.Drawing.Point(1035, 394);
+            this.rent.Name = "rent";
+            this.rent.ReadOnly = true;
+            this.rent.Size = new System.Drawing.Size(100, 22);
+            this.rent.TabIndex = 20;
+            // 
+            // inv
+            // 
+            this.inv.Location = new System.Drawing.Point(1035, 422);
+            this.inv.Name = "inv";
+            this.inv.ReadOnly = true;
+            this.inv.Size = new System.Drawing.Size(100, 22);
+            this.inv.TabIndex = 21;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label3.Location = new System.Drawing.Point(890, 409);
+            this.label3.Location = new System.Drawing.Point(914, 397);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(129, 17);
-            this.label3.TabIndex = 21;
-            this.label3.Text = "Salary Percentage:";
+            this.label3.Size = new System.Drawing.Size(101, 17);
+            this.label3.TabIndex = 22;
+            this.label3.Text = "Rent(monthly):";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label4.Location = new System.Drawing.Point(890, 425);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(132, 17);
+            this.label4.TabIndex = 23;
+            this.label4.Text = "Recommend Invest:";
             // 
             // UserControl1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.salaryPercentage);
+            this.Controls.Add(this.inv);
+            this.Controls.Add(this.rent);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.salaryCalculate);
             this.Controls.Add(this.salary);
@@ -339,7 +361,9 @@
         private System.Windows.Forms.TextBox salary;
         private System.Windows.Forms.Button salaryCalculate;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox salaryPercentage;
+        private System.Windows.Forms.TextBox rent;
+        private System.Windows.Forms.TextBox inv;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Records>
 	<record>
 		<Occupations>Chief executives</Occupations>
 		<MedianWage>184460</MedianWage>
@@ -4304,7 +4304,4 @@
 	<record>
 		<Occupations>Note: Data is unavailable for values denoted with a "—".</Occupations>
 	</record>
-	<record>
-		<Occupations>Source: Employment Projections program, U.S. Bureau of Labor Statistics</Occupations>
-	</record>
-</data-set>
+</Records>

@@ -134,7 +134,7 @@ namespace retireCalc
             double countInvest = invested.Total();
             double rInterval=0;
             double tInterval = 0;
-
+            
             //Will create the x,and y values
             for (double i = 0; i < yearDifference; i++)
             { 
@@ -168,22 +168,17 @@ namespace retireCalc
         
         private void salaryCalculate_Click(object sender, EventArgs e)
         {
+            FindCareer findCareer = new FindCareer();
             salaryIn = Convert.ToDouble(salary.Text);
-
-
+            rent.Text = findCareer.RentControl(sal).ToString();
+            inv.Text = findCareer.RentControl().ToString();
 
             //adds the dataSet to the table for viewing
 
 
-            XmlDocument careerDoc = new XmlDocument();
-            careerDoc.Load(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobOutlook2.xml");
             DataSet dataSet1 = new DataSet();
-            XmlReader xmlReader = new XmlNodeReader(findCareer.career(careerDoc, salaryIn));
-            dataSet1.ReadXml(xmlReader);
+            dataSet1.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobOutlook2.xml");
             careerOptions.DataSource = dataSet1.Tables[0];
-
-
-
 
             DataSet dataSet2 = new DataSet();
             dataSet2.ReadXml(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\rent2.xml");
@@ -286,52 +281,19 @@ namespace retireCalc
     }
 
     //creates class to find and input possible career options for user, based off of desired salary.
-    public class findCareer: UserControl1
+    public class FindCareer: UserControl1
     {
-        public static double salary;
-        
-        public static XmlDocument career(XmlDocument careerReader, double salary)
+        double rent;
+        public double RentControl(double salary)
         {
-            string careerSalary, careerC;
-            double cSalary;
-            XmlDocument inputCareer = new XmlDocument();
-            inputCareer.Load(@"C:\Users\kwon ji\Desktop\retireCalc\Tables\jobInput1.xml");
+            rent = (salary * .3)/12;
+            return rent;
+        }
+        public double RentControl()
+        {
 
-            //checks to see if the salary wanted will satisfy any jobs.
-            //will remove careers that are too low in pay.
-            XmlNodeList xnList = careerReader.SelectNodes("/record/MedianWage");
-
-            bool isIntString;
-            XmlNode root = inputCareer.DocumentElement;
-
-            foreach (XmlNode node in  careerReader.DocumentElement)
-            {
-                careerC = node["Occupations"].InnerText;
-                careerSalary = node["MedianWage"].InnerText;
-                isIntString = careerSalary.All(char.IsDigit);
-                //creates new nodes if it hits the career criteria
-
-
-                if (isIntString==true)
-                {
-                    cSalary = Convert.ToDouble(careerSalary);
-                    if (cSalary > salary)
-                    { 
-                        XmlElement elem1 = inputCareer.CreateElement("Occupations");
-                        elem1.InnerText = node["Occupations"].InnerText;
-
-                        XmlElement elem = inputCareer.CreateElement("MedianWage");
-                        elem.InnerText = node["MedianWage"].InnerText;
-
-  
-                        inputCareer.DocumentElement.AppendChild(elem1);
-                        inputCareer.DocumentElement.AppendChild(elem);
-
-                    }
-
-                }
-            }
-            return inputCareer;
+            rent = this.sal * .1;
+            return rent;
         }
 
     }
